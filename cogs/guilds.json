@@ -1,0 +1,61 @@
+{
+    "guilds": {
+        "xeris": {
+            "name": "Xeris",
+            "leader": "<@!372087342959427584>",
+            "level": "3",
+            "contrib": 7814,
+            "contriblvl": "12500",
+            "image": "https://images-ext-2.discordapp.net/external/3ioAkaw_1B8GKfTbZbQOY7VeVlnF-slV8Ac7C0nICRg/https/media.discordapp.net/attachments/707728592817094778/717193719782309948/Xerislogo.png",
+            "badges": "<:badge1:725355698963087451>",
+            "lvl": "3"
+        },
+        "calix": {
+            "name": "Calix",
+            "leader": "[GM] TheGabDooSan",
+            "level": "2",
+            "contrib": 2172,
+            "contriblvl": "7500",
+            "image": "https://images-ext-1.discordapp.net/external/9av7y9tRBrwfvyDg91XX3FLj2ob5VnjClImjoo1Q0RI/https/media.discordapp.net/attachments/707728592817094778/717407386574520390/CaliixNewLogo.png",
+            "badges": "<:badge1:725355698963087451>",
+            "lvl": "2"
+        },
+        "borealise": {
+            "name": "Borealise",
+            "leader": "Aucun",
+            "level": "1",
+            "contrib": 1310,
+            "contriblvl": "1500",
+            "image": "https://images-ext-2.discordapp.net/external/ckuo0PprNIP2jel1EiQN5UvLlX-f3Ehr0f7MYq2uD3k/https/media.discordapp.net/attachments/707728592817094778/717194320817684490/BorealiseInfo.png",
+            "badges": "Aucun badge"
+        },
+        "volta": {
+            "name": "Volta",
+            "leader": "Aucun",
+            "level": "1",
+            "contrib": 237,
+            "contriblvl": "1500",
+            "image": "https://images-ext-2.discordapp.net/external/GjHjBOVL4SE4WIx4mWo4mUr8KPdApNjs0OnI5nbyOXM/https/media.discordapp.net/attachments/707728592817094778/717192795743322152/Voltalogo.png",
+            "badges": "Aucun badge"
+        },
+        "divinity": {
+            "name": "<:E18:722891332791566376> Divinity",
+            "leader": "<@!707402860853329931>",
+            "level": "??",
+            "contrib": "??",
+            "contriblvl": "??",
+            "image": "https://cdn.discordapp.com/attachments/712825742253359105/732187725209534504/EphediaGameDiscord.png",
+            "badges": "??",
+            "lvl": "99999999999999999"
+        },
+        "ephedia": {
+            "name": "Ephedia",
+            "leader": "Aucun",
+            "level": "1",
+            "contrib": 4,
+            "contriblvl": "1500",
+            "image": "https://cdn.discordapp.com/attachments/721464001115979888/729892930822733895/Ephedia_logo.png",
+            "badges": "Aucun badge"
+        }
+    }
+}

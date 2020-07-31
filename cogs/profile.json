@@ -1,0 +1,2532 @@
+{
+    "274558756522557440": {
+        "titre": "To be continued ?",
+        "desc": "D\u00e9veloppeur des bots <@!709532201871737023> et <@!709492167537721434>",
+        "best_friends": "<mention>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "**  **\n<a:E14:722891354438500493> <:verified_bot_developer:717005073477140492> <:badge2:725355711718227998> <:verified_discord:717005075582681239> <:balance:718556519947436144> <:briliance:718556519548846140> <:bravery:718556519876263937> <a:hypeshiny:725355352610177046> <:badge1:725355698963087451><:5746_discordpartnerlogo:727574847219302421> <:2989_BugHunter_2:725355369156706325> <a:603221739920424970:725355386483507212> <a:687238261814460434:725355466405838858> <a:MagicCoins:728621926809075732> <a:Tsuki:727918297420398673> <a:E4:722887481145688166> <a:721206995176390676:722923273175826463> <a:E9:722891271504396388>",
+        "succes": "1",
+        "image": "https://imgur.com/UqHSano.png",
+        "rep": 85,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "CyanV4",
+                "HestiaV3",
+                "HestiaV4",
+                "MisakiV1",
+                "MisakiV2",
+                "NarutoV1",
+                "CyanV1",
+                "CyanV2",
+                "CyanV3",
+                "HestiaV1",
+                "HestiaV2",
+                "HideriV1",
+                "HideriV2",
+                "HideriV3",
+                "HideriV4",
+                "HinataV1",
+                "KannaV1",
+                "KannaV2",
+                "KannaV3",
+                "KannaV4",
+                "LuffyV1",
+                "LuffyV2",
+                "LuffyV3",
+                "LuffyV4",
+                "MashiroV1",
+                "NarutoV2",
+                "RemV1",
+                "RemV2",
+                "RemV3",
+                "RemV4",
+                "RukiaV1",
+                "RukiaV2",
+                "RukiaV3",
+                "RukiaV4",
+                "SagiriV1",
+                "SagiriV2",
+                "SagiriV3",
+                "SagiriV4",
+                "YugiV1",
+                "ZeroTwoV1",
+                "ZeroTwoV2",
+                "IrisV1",
+                "IrisV3",
+                "TaliaV1",
+                "AuriannaV1",
+                "GokuV1",
+                "GokuV2",
+                "GokuV3",
+                "VegetaV1",
+                "VegetaV2",
+                "VegetaV3",
+                "AsunaV1",
+                "AsunaV2",
+                "AsunaV3",
+                "AsunaV4",
+                "TaigaV1",
+                "TaigaV2",
+                "TaigaV3",
+                "TaigaV4",
+                "SaberV1",
+                "SaberV2",
+                "SaberV3",
+                "SaberV4",
+                "SaberV5",
+                "CyanV5",
+                "RemV5",
+                "SagiriV5",
+                "YukiV2",
+                "IchigoV1",
+                "IchigoV2",
+                "IchigoV3",
+                "YamamotoV1",
+                "SoiFonV1",
+                "GinV1",
+                "UnohanaV1",
+                "AizenV1",
+                "Byakuya",
+                "KomamuraV1",
+                "KyorakuV1",
+                "HitsugayaV1",
+                "KenpachiV1",
+                "MayuriV1",
+                "TousenV1",
+                "UkitakeV1",
+                "ZoroV1",
+                "NamiV1",
+                "RobinV1",
+                "UsoppV1",
+                "FrankyV1",
+                "ChopperV1",
+                "BrookV1",
+                "IceV1",
+                "LawV1",
+                "DoflamingoV1",
+                "JosukeV1",
+                "KiraV1",
+                "JotaroV1",
+                "DioV1",
+                "GiornoV1"
+            ],
+            "titles": [
+                "Titre1",
+                "Titre2",
+                "Titre3",
+                "Titre4",
+                "Titre5",
+                "Titre6",
+                "Titre7",
+                "Titre8",
+                "Titre9",
+                "Titre10",
+                "Titre11",
+                "Titre12",
+                "Titre13",
+                "Titre14",
+                "Titre15",
+                "Titre16",
+                "Titre17",
+                "Titre18",
+                "Titre19",
+                "Titre20",
+                "Titre21",
+                "Titre22",
+                "Titre23",
+                "Titre24",
+                "Titre25",
+                "Titre26",
+                "Titre42",
+                "Titre27",
+                "Titre28",
+                "Titre29",
+                "Titre30",
+                "Titre31",
+                "Titre32",
+                "Titre33",
+                "Titre34",
+                "Titre35",
+                "Titre36",
+                "Titre37",
+                "Titre38",
+                "Titre39",
+                "Titre40",
+                "Titre41",
+                "Titre43",
+                "Titre44",
+                "Titre45",
+                "Titre46",
+                "Titre47",
+                "Titre48",
+                "Titre49",
+                "Titre50",
+                "Titre51",
+                "Titre52",
+                "Titre53",
+                "Titre54",
+                "Titre55",
+                "Titre56",
+                "Titre57",
+                "Titre58",
+                "Titre59",
+                "Titre60",
+                "Titre61",
+                "Titre62",
+                "Titre63",
+                "Titre64",
+                "Titre65",
+                "Titre66",
+                "Titre67",
+                "Titre68",
+                "Titre69",
+                "Titre70",
+                "Titre71",
+                "Titre72",
+                "Titre73",
+                "Titre74",
+                "Titre75",
+                "Titre76",
+                "Titre77",
+                "Titre78",
+                "Titre79",
+                "Titre80",
+                "Titre81",
+                "Titre82",
+                "Titre83",
+                "Titre84",
+                "Titre85",
+                "Titre86",
+                "Titre87",
+                "Titre88",
+                "Titre89",
+                "Titre90",
+                "Titre91",
+                "Titre92",
+                "Titre93",
+                "Titre94",
+                "Titre95",
+                "Titre96",
+                "Titre97",
+                "Titre98",
+                "Titre99",
+                "Titre100",
+                "Titre101",
+                "Titre102",
+                "Titre103",
+                "Titre104",
+                "Titre105",
+                "Titre106",
+                "Titre107",
+                "Titre108",
+                "Titre109",
+                "Titre110",
+                "Titre111"
+            ]
+        },
+        "balance": 0
+    },
+    "707402860853329931": {
+        "titre": "<a:E25:722912849214701721> __Cwoqueuw de Cawotte__",
+        "desc": "<a:blue_verified:717787003957018666> Fondatrice Eph\u00e9dia & Fgroupe\n\n<a:621839090131795978:723013365588557865> Ohay\u00f4 ! Je suis Kayla, J'ai 23 ans, j'adore les anim\u00e9s et les mangas, j'adore \u00e9galement le marketing, le graphisme, et le professionnalisme.\n\n<a:E5:722887534060896388> N'h\u00e9sitez pas \u00e0 me contacter pour toutes questions CONCERNANT le marketing, graphisme ou par rapport \u00e0 <:E18:722891332791566376> Eph\u00e9dia Game. Cordialement.",
+        "best_friends": "<@!559129912846319617>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "** **\n<a:E14:722891354438500493> <:verified_bot_developer:717005073477140492> <:badge2:725355711718227998> <:verified_discord:717005075582681239> <:balance:718556519947436144> <:briliance:718556519548846140> <:bravery:718556519876263937> <a:hypeshiny:725355352610177046> <:badge1:725355698963087451><:5746_discordpartnerlogo:727574847219302421> <:2989_BugHunter_2:725355369156706325> <a:603221739920424970:725355386483507212> <a:687238261814460434:725355466405838858> <a:MagicCoins:728621926809075732> <a:Tsuki:727918297420398673> <a:E4:722887481145688166> <a:721206995176390676:722923273175826463> <a:E9:722891271504396388>",
+        "succes": "1",
+        "image": "https://imgur.com/SlPO5dd.gif",
+        "rep": 36,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "CyanV4",
+                "HestiaV3",
+                "HestiaV4",
+                "MisakiV1",
+                "MisakiV2",
+                "NarutoV1",
+                "CyanV1",
+                "CyanV2",
+                "CyanV3",
+                "HestiaV1",
+                "HestiaV2",
+                "HideriV1",
+                "HideriV2",
+                "HideriV3",
+                "HideriV4",
+                "HinataV1",
+                "KannaV1",
+                "KannaV2",
+                "KannaV3",
+                "KannaV4",
+                "LuffyV1",
+                "LuffyV2",
+                "LuffyV3",
+                "LuffyV4",
+                "MashiroV1",
+                "NarutoV2",
+                "RemV1",
+                "RemV2",
+                "RemV3",
+                "RemV4",
+                "RukiaV1",
+                "RukiaV2",
+                "RukiaV3",
+                "RukiaV4",
+                "SagiriV1",
+                "SagiriV2",
+                "SagiriV3",
+                "SagiriV4",
+                "YugiV1",
+                "ZeroTwoV1",
+                "ZeroTwoV2",
+                "IrisV1",
+                "IrisV3",
+                "TaliaV1",
+                "AuriannaV1",
+                "GokuV1",
+                "GokuV2",
+                "GokuV3",
+                "VegetaV1",
+                "VegetaV2",
+                "VegetaV3",
+                "AsunaV1",
+                "AsunaV2",
+                "AsunaV3",
+                "AsunaV4",
+                "TaigaV1",
+                "TaigaV2",
+                "TaigaV3",
+                "TaigaV4",
+                "SaberV1",
+                "SaberV2",
+                "SaberV3",
+                "SaberV4",
+                "SaberV5",
+                "CyanV5",
+                "RemV5",
+                "SagiriV5",
+                "YukiV2",
+                "IchigoV1",
+                "IchigoV2",
+                "IchigoV3",
+                "YamamotoV1",
+                "SoiFonV1",
+                "GinV1",
+                "UnohanaV1",
+                "AizenV1",
+                "Byakuya",
+                "KomamuraV1",
+                "KyorakuV1",
+                "HitsugayaV1",
+                "KenpachiV1",
+                "MayuriV1",
+                "TousenV1",
+                "UkitakeV1",
+                "ZoroV1",
+                "NamiV1",
+                "RobinV1",
+                "UsoppV1",
+                "FrankyV1",
+                "ChopperV1",
+                "BrookV1",
+                "IceV1",
+                "LawV1",
+                "DoflamingoV1",
+                "JosukeV1",
+                "KiraV1",
+                "JotaroV1",
+                "DioV1",
+                "GiornoV1",
+                "JosephV1"
+            ],
+            "titles": [
+                "Titre1",
+                "Titre2",
+                "Titre3",
+                "Titre4",
+                "Titre5",
+                "Titre6",
+                "Titre7",
+                "Titre8",
+                "Titre9",
+                "Titre10",
+                "Titre11",
+                "Titre12",
+                "Titre13",
+                "Titre14",
+                "Titre15",
+                "Titre16",
+                "Titre17",
+                "Titre18",
+                "Titre19",
+                "Titre20",
+                "Titre21",
+                "Titre22",
+                "Titre23",
+                "Titre24",
+                "Titre25",
+                "Titre26",
+                "Titre42",
+                "Titre27",
+                "Titre28",
+                "Titre29",
+                "Titre30",
+                "Titre31",
+                "Titre32",
+                "Titre33",
+                "Titre34",
+                "Titre35",
+                "Titre36",
+                "Titre37",
+                "Titre38",
+                "Titre39",
+                "Titre40",
+                "Titre41",
+                "Titre43",
+                "Titre44",
+                "Titre45",
+                "Titre46",
+                "Titre47",
+                "Titre48",
+                "Titre49",
+                "Titre50",
+                "Titre51",
+                "Titre52",
+                "Titre53",
+                "Titre54",
+                "Titre55",
+                "Titre56",
+                "Titre57",
+                "Titre58",
+                "Titre59",
+                "Titre60",
+                "Titre61",
+                "Titre62",
+                "Titre63",
+                "Titre64",
+                "Titre65",
+                "Titre66",
+                "Titre67",
+                "Titre68",
+                "Titre69",
+                "Titre70",
+                "Titre71",
+                "Titre72",
+                "Titre73",
+                "Titre74",
+                "Titre75",
+                "Titre76",
+                "Titre77",
+                "Titre78",
+                "Titre79",
+                "Titre80",
+                "Titre81",
+                "Titre82",
+                "Titre83",
+                "Titre84",
+                "Titre85",
+                "Titre86",
+                "Titre87",
+                "Titre88",
+                "Titre89",
+                "Titre90",
+                "Titre91",
+                "Titre92",
+                "Titre93",
+                "Titre94",
+                "Titre95",
+                "Titre96",
+                "Titre97",
+                "Titre98",
+                "Titre99",
+                "Titre100",
+                "Titre101",
+                "Titre102",
+                "Titre103",
+                "Titre104",
+                "Titre105",
+                "Titre106",
+                "Titre107",
+                "Titre108",
+                "Titre109",
+                "Titre110",
+                "Titre111"
+            ]
+        },
+        "balance": 10000000000000000000000161437
+    },
+    "313710824361558016": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:E18:722891332791566376>",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "352463197577543680": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "<@274558756522557440>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "372087342959427584": {
+        "titre": "Illuminati",
+        "desc": "\ud835\udc16\ud835\udc2c\ud835\udc21 \ud835\udc16\ud835\udc2c\ud835\udc21 \ud835\udc02\ud835\udc1a\ud835\udc27\ud835\udc27\ud835\udc1e \ud835\udc1a \ud835\udc29\ud835\udc1e\ud835\udc1c\ud835\udc21\ud835\udc1e / \ud835\udc09\ud835\udc28\ud835\udc2e\ud835\udc1e\ud835\udc2e\ud835\udc2b \ud835\udc0f\ud835\udc2b\ud835\udc28 \ud835\udc1d\ud835\udc1e \ud835\udc0e\ud835\udc2c\ud835\udc2e <:4_:714618117732564992>",
+        "best_friends": "Asuna",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:E18:722891332791566376>",
+        "succes": "0",
+        "image": "https://imgur.com/sVhCPkB.png",
+        "rep": 37,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "SagiriV2",
+                "RemV4",
+                "AsunaV1",
+                "AsunaV2",
+                "AsunaV3",
+                "AsunaV4"
+            ],
+            "titles": [
+                "Titre17",
+                "Titre30",
+                "Titre55",
+                "Titre62"
+            ]
+        },
+        "balance": 215297
+    },
+    "254598898767757312": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:E18:722891332791566376>",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "202866743348166656": {
+        "titre": "Aucun titre",
+        "desc": "Main breadwinner for Bor\u00e9alise clan",
+        "best_friends": "<@202866743348166656>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 453
+    },
+    "543396232228503552": {
+        "titre": "Divinit\u00e9",
+        "desc": "\ud835\udc71\ud835\udc86 \ud835\udc94\ud835\udc96\ud835\udc8a\ud835\udc94 \ud835\udc6b\ud835\udc8a\ud835\udc86\ud835\udc96. \u2713",
+        "best_friends": "<@705533699990749276>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/9qJjYJx.png",
+        "rep": 28,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "HideriV4",
+                "ZeroTwoV2",
+                "RemV4",
+                "RukiaV4",
+                "AsunaV4"
+            ],
+            "titles": [
+                "Titre13",
+                "Titre21"
+            ]
+        },
+        "balance": 939187
+    },
+    "293074221255622656": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:E18:722891332791566376>",
+        "succes": "0",
+        "image": null,
+        "rep": 10,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": [
+                "Titre16"
+            ]
+        },
+        "balance": 261628
+    },
+    "402516655168684034": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 22
+    },
+    "691423666080055326": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "603873872659480577": {
+        "titre": "Aucun titre",
+        "desc": "SAO Fan - Otaku - Weeb",
+        "best_friends": "<@274558756522557440>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:E18:722891332791566376>",
+        "succes": "0",
+        "image": null,
+        "rep": 6,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 37453
+    },
+    "358575223181672449": {
+        "titre": "Irotukienn(e)",
+        "desc": "Dieu parmit les dieux",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "<@707402860853329931>",
+        "partner_id": "707402860853329931",
+        "badges": "<a:E4:722887481145688166>",
+        "succes": "0",
+        "image": "https://imgur.com/1dJKB6V.png",
+        "rep": 6,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "MashiroV1",
+                "SagiriV1",
+                "KannaV1",
+                "CyanV1",
+                "MisakiV1",
+                "RemV1",
+                "TaigaV1",
+                "TaigaV2",
+                "TaigaV3",
+                "TaigaV4"
+            ],
+            "titles": [
+                "Titre14",
+                "Titre13",
+                "Titre85"
+            ]
+        },
+        "balance": 149886
+    },
+    "705533699990749276": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "<@543396232228503552>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "__175 000__",
+        "image": "https://imgur.com/DTAe33B.png",
+        "rep": 26,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "HestiaV4"
+            ],
+            "titles": []
+        },
+        "balance": 57327
+    },
+    "724592288935837739": {
+        "titre": "Aucun titre",
+        "desc": "Mashiro Shiina, Zero Two, Nakano Miku = Best Waifus",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 55
+    },
+    "630711187297796102": {
+        "titre": "Aucun titre",
+        "desc": "Bonjour",
+        "best_friends": "<@!274558756522557440>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "612287791530770442": {
+        "titre": "Aucun titre",
+        "desc": "Chifuyu Orimura,  Asuna Yuuki,  Lilith Asami, Yatogami Tohka, Erina Nakiri, Shinomiya Ayase = Les Meilleurs Waifus.",
+        "best_friends": "<@!372087342959427584>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "502938351284781078": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "625265200949493779": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "<@!313710824361558016>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 4065
+    },
+    "444910577891016704": {
+        "titre": "Aucun titre",
+        "desc": "Tyzok cheateur Professionel Minecraftien depuis 2ans et il aime les mangas",
+        "best_friends": "<@444910577891016704>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 372
+    },
+    "718226953416474694": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "348093999539552256": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "347404960675266571": {
+        "titre": "Aucun titre",
+        "desc": "[\u00e0 venir]",
+        "best_friends": "<@!347404960675266571>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "240564951108943873": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "471219437710606337": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "559129912846319617": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<:verified_discord:717005075582681239>",
+        "succes": "0",
+        "image": "https://imgur.com/VOYES1Y.png",
+        "rep": 2,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "KannaV3"
+            ],
+            "titles": []
+        },
+        "balance": 216
+    },
+    "302088379623800832": {
+        "titre": "Aucun titre",
+        "desc": "La paresse souvent prend le nom de prudence.",
+        "best_friends": "<@456807528433582080>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/VOYES1Y.png",
+        "rep": 21,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "KannaV3"
+            ],
+            "titles": []
+        },
+        "balance": 577719
+    },
+    "456807528433582080": {
+        "titre": "Aucun titre",
+        "desc": "GAB Merci pour ma journ\u00e9e de Farm",
+        "best_friends": "<@302088379623800832>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/Sh7xprb.png",
+        "rep": 8,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "SagiriV2"
+            ],
+            "titles": []
+        },
+        "balance": 838907
+    },
+    "224533466945945600": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "640167718883950610": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 126785
+    },
+    "714167545711820921": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "321005360917905408": {
+        "titre": "Aucun titre",
+        "desc": "le plus charismatique",
+        "best_friends": "<@332169687880302604>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/awzjVMI.png",
+        "rep": 16,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "KannaV4",
+                "RemV4"
+            ],
+            "titles": []
+        },
+        "balance": 44090
+    },
+    "361955537929371659": {
+        "titre": "Aucun titre",
+        "desc": "Mec Cool",
+        "best_friends": "<@274558756522557440>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 2,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "710295555611426821": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 25
+    },
+    "544290831738208266": {
+        "titre": "Aucun titre",
+        "desc": "un fonda classique",
+        "best_friends": "<@691410813470375946>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "719500103395704855": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "159705211949154304": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "569798296235802624": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "689000370512330783": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "465897916230270976": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "329522913541881857": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 80
+    },
+    "509092852895186957": {
+        "titre": "Hello macron mais qu\u00e9 pasa ?",
+        "desc": "Askip chuis un cookie <a:652433124797710348:723013382772359238>",
+        "best_friends": "<@313419471693807617>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<a:E4:722887481145688166>",
+        "succes": "0",
+        "image": "https://imgur.com/awzjVMI.png",
+        "rep": 20,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "CyanV1",
+                "HestiaV1",
+                "NarutoV1",
+                "ZeroTwoV1",
+                "RemV1",
+                "RemV4"
+            ],
+            "titles": [
+                "Titre37"
+            ]
+        },
+        "balance": 44740
+    },
+    "453891507724746752": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "624630109713989642": {
+        "titre": "Divinit\u00e9",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/Sh7xprb.png",
+        "rep": 5,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "SagiriV2"
+            ],
+            "titles": [
+                "Titre13"
+            ]
+        },
+        "balance": 507929
+    },
+    "332169687880302604": {
+        "titre": "Divinit\u00e9",
+        "desc": "Flemme de faire une description",
+        "best_friends": "<@!707389866924834847>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<a:Tsuki:727918297420398673>",
+        "succes": "0",
+        "image": "https://imgur.com/NylXOdi.png",
+        "rep": 81,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "HideriV4",
+                "SagiriV4",
+                "MashiroV1",
+                "HideriV1",
+                "GokuV2",
+                "RemV3"
+            ],
+            "titles": [
+                "Titre13",
+                "Titre55",
+                "Titre58",
+                "Titre65",
+                "Titre49"
+            ]
+        },
+        "balance": 1155431
+    },
+    "707389866924834847": {
+        "titre": "Je vous domine tous !",
+        "desc": "Fan de BSD qui force/ Addict \u00e0 Mudae selon Skyz",
+        "best_friends": "<@!332169687880302604>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/TDpFHzC.png",
+        "rep": 66,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "KannaV1",
+                "KannaV4"
+            ],
+            "titles": [
+                "Titre65",
+                "Titre79",
+                "Titre86",
+                "Titre95"
+            ]
+        },
+        "balance": 645695
+    },
+    "352799358317625344": {
+        "titre": "Le roi des pirates , ce sera moi !",
+        "desc": "Hey tout le monde !\n\n<a:692119465617260645:700081111224811581>  je m'appelle Zyan, j'ai 15 ans, j'adore plusieurs type d'anim\u00e9s et mangas (parfois) j'adore aussi le graphisme (j'adore C4D, AE, Photoshop)",
+        "best_friends": "<@332169687880302604>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/TDpFHzC.png",
+        "rep": 31,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "KannaV4",
+                "RemV4"
+            ],
+            "titles": [
+                "Titre48",
+                "Titre32"
+            ]
+        },
+        "balance": 657625
+    },
+    "703975295543279617": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 348
+    },
+    "351654341968396289": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 150966
+    },
+    "588606765877428259": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 3,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 5685
+    },
+    "627608423625785410": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/WoaBnan.png",
+        "rep": 4,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "RemV1"
+            ],
+            "titles": []
+        },
+        "balance": 113238
+    },
+    "699831540242186310": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 25939
+    },
+    "704696137185099828": {
+        "titre": "Aucun titre",
+        "desc": "skyz a gagne un debat contre kaneki",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 68417
+    },
+    "551505952226934811": {
+        "titre": "Aucun titre",
+        "desc": "je suis un membre du gang des tartes, ici c'est la joie entre les tartes !",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "467071609530744832": {
+        "titre": "Aucun titre",
+        "desc": "Je suis le chef du gang des tartes. Ici, on est \u00e9gaux et on s'aime entre tartes. Si t'es aimable, on est aimable. Si t'es m\u00e9chant, on est m\u00e9chant.",
+        "best_friends": "<@!551505952226934811>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "444962635604164633": {
+        "titre": "Aucun titre",
+        "desc": "Je suis une tarte aux framboises, nous allons domin\u00e9 tout les serveurs contre-tartes. :)",
+        "best_friends": "<@!551505952226934811>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 277
+    },
+    "648394677866987541": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "<@302088379623800832>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/UqHSano.png",
+        "rep": 2,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "ZeroTwoV2"
+            ],
+            "titles": []
+        },
+        "balance": 198096
+    },
+    "698512368312909854": {
+        "titre": "Interm\u00e9diaire",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 2,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": [
+                "Titre1",
+                "Titre2",
+                "Titre3"
+            ]
+        },
+        "balance": 72406
+    },
+    "696368242142347317": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 156400
+    },
+    "261831391266865152": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "327878748466839552": {
+        "titre": "Vous n'\u00eates que des faibles.",
+        "desc": "StevenTed, le mec le plus BG \ud83c\udfc6",
+        "best_friends": "<@!274558756522557440>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<a:E4:722887481145688166>",
+        "succes": "0",
+        "image": "https://imgur.com/BBlQjjb.png",
+        "rep": 18,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "CyanV1",
+                "ZeroTwoV1",
+                "HestiaV4",
+                "CyanV4",
+                "KannaV2",
+                "MisakiV2",
+                "KannaV1",
+                "HestiaV1",
+                "RemV1",
+                "RukiaV1",
+                "SagiriV1"
+            ],
+            "titles": [
+                "Titre14",
+                "Titre13",
+                "Titre22",
+                "Titre24",
+                "Titre29",
+                "Titre30",
+                "Titre34",
+                "Titre46",
+                "Titre47",
+                "Titre49",
+                "Titre21"
+            ]
+        },
+        "balance": 263327
+    },
+    "701186771664502824": {
+        "titre": "<a:E8:722891262302224545> __Super saiyan__",
+        "desc": "Le vieux monsieur",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<a:E4:722887481145688166>",
+        "succes": "0",
+        "image": "https://imgur.com/t6cG0TL.png",
+        "rep": 3,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "YugiV1",
+                "NarutoV1",
+                "RukiaV1",
+                "LuffyV1",
+                "LuffyV2",
+                "NarutoV2",
+                "RukiaV2",
+                "LuffyV4",
+                "RukiaV3",
+                "RemV4",
+                "RemV3",
+                "RemV2",
+                "ZeroTwoV2",
+                "SagiriV4",
+                "LuffyV3",
+                "HestiaV4",
+                "KannaV4",
+                "AuriannaV1",
+                "VegetaV1",
+                "GokuV1",
+                "IrisV1",
+                "ZeroTwoV1",
+                "VegetaV2",
+                "GokuV2",
+                "SagiriV2",
+                "HideriV2",
+                "CyanV2",
+                "HestiaV2",
+                "KannaV2",
+                "MisakiV2"
+            ],
+            "titles": [
+                "Titre16",
+                "Titre6",
+                "Titre11",
+                "Titre20",
+                "Titre89",
+                "Titre99",
+                "Titre100",
+                "Titre103",
+                "Titre105",
+                "Titre108",
+                "Titre106",
+                "Titre107"
+            ]
+        },
+        "balance": 2355027
+    },
+    "697926887665827852": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "446685180804071424": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 37
+    },
+    "730308627579273246": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 57953
+    },
+    "683254275618373683": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 601
+    },
+    "626086174426923009": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 1491
+    },
+    "709486349748666388": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "730527634592890900": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "709423007373721611": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "NarutoV1"
+            ],
+            "titles": []
+        },
+        "balance": 880
+    },
+    "693219896603181109": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 1500
+    },
+    "154563894587686915": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 1500
+    },
+    "421768041286598663": {
+        "titre": "Error404_noFound",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": [
+                "Titre34"
+            ]
+        },
+        "balance": 9844
+    },
+    "720818426972602518": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "513037988356423697": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/GH7dB5v.png",
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "JosukeV1",
+                "KiraV1",
+                "JotaroV1",
+                "DioV1",
+                "GiornoV1",
+                "JosephV1"
+            ],
+            "titles": []
+        },
+        "balance": 312
+    },
+    "313419471693807617": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "<@!509092852895186957>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 2,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 181321
+    },
+    "598591892346765435": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 54918
+    },
+    "412173322256646144": {
+        "titre": "<:2_:714618090549149736>  __Justicier de discord__",
+        "desc": "<a:696785108857782452:723013407778930751><a:696785131045912687:723013415634731128> Gros joueur mc rogue. Je me tiens loin des guildes et groupe car \u00e7a ne fait qu'entraver ma connerie <:kunai:732045879099260929>",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "<a:E4:722887481145688166>",
+        "succes": "0",
+        "image": "https://imgur.com/awzjVMI.png",
+        "rep": 7,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "HideriV1",
+                "CyanV1",
+                "MashiroV1",
+                "NarutoV1",
+                "RemV1",
+                "HinataV1",
+                "MisakiV1",
+                "RemV2",
+                "GokuV2",
+                "CyanV2",
+                "MisakiV2",
+                "KannaV2",
+                "IrisV1",
+                "TaliaV1",
+                "RukiaV1",
+                "GokuV1",
+                "VegetaV1",
+                "LuffyV2",
+                "HestiaV2",
+                "RukiaV2",
+                "VegetaV2",
+                "HideriV2",
+                "KannaV1",
+                "AuriannaV1",
+                "ZeroTwoV1",
+                "SagiriV1",
+                "YugiV1",
+                "SagiriV2",
+                "RemV3",
+                "RemV4",
+                "VegetaV3",
+                "ZeroTwoV2"
+            ],
+            "titles": [
+                "Titre23",
+                "Titre13",
+                "Titre93",
+                "Titre91",
+                "Titre49",
+                "Titre35",
+                "Titre36",
+                "Titre32",
+                "Titre50",
+                "Titre71",
+                "Titre64",
+                "Titre63",
+                "Titre94",
+                "Titre90",
+                "Titre51",
+                "Titre52",
+                "Titre53",
+                "Titre54",
+                "Titre55",
+                "Titre56",
+                "Titre57",
+                "Titre58",
+                "Titre59",
+                "Titre60",
+                "Titre61",
+                "Titre62",
+                "Titre65",
+                "Titre68",
+                "Titre111",
+                "Titre110"
+            ]
+        },
+        "balance": 3303731
+    },
+    "212270801657790464": {
+        "titre": "Aucun titre",
+        "desc": "Coca Bien Frais Chacal",
+        "best_friends": "<@!714479559487258635>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 3,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 816840
+    },
+    "714479559487258635": {
+        "titre": "Aucun titre",
+        "desc": "High school dxd meilleur anime \u2764\ufe0f",
+        "best_friends": "<@!212270801657790464>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "714265355908022322": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 31458
+    },
+    "524930219744952331": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "600327393923563523": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 1031066
+    },
+    "589453591518117917": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 5525
+    },
+    "495255840882819072": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 18275
+    },
+    "694244909124812951": {
+        "titre": "Error404_noFound",
+        "desc": "Fondatrice de \ud835\udca9\ud835\udcbe\ud835\udc54\ud835\udcbd\ud835\udcc9 \ud835\udc9e\ud835\udcbe\ud835\udcc7\ud835\udcb8\ud835\udcca\ud835\udcc8",
+        "best_friends": "<@!426635929017647106>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": "https://imgur.com/wHR2O9E.png",
+        "rep": 5,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [
+                "RemV1",
+                "RemV2",
+                "RemV3",
+                "RemV4"
+            ],
+            "titles": [
+                "Titre34",
+                "Titre20"
+            ]
+        },
+        "balance": 223748
+    },
+    "402539801485508629": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 133400
+    },
+    "435908815519481866": {
+        "titre": "Le roi des pirates , ce sera moi !",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": [
+                "Titre48"
+            ]
+        },
+        "balance": 127908
+    },
+    "426635929017647106": {
+        "titre": "Aucun titre",
+        "desc": "-c'est des sacr\u00e9s fachos\n-GESTAPO !",
+        "best_friends": "<@!694244909124812951>",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 85128
+    },
+    "324191240138522624": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 56826
+    },
+    "435865638460981260": {
+        "titre": "Aucun titre",
+        "desc": "je sui le pro 2 l'ortografeu",
+        "best_friends": "\u5927\u4e08\u592b\u6f2b\u753b",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 17727
+    },
+    "384294889657204736": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 44086
+    },
+    "673239729994465303": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 11204
+    },
+    "430690463457083394": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "283181546578640898": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 30433
+    },
+    "666914740357955595": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 22926
+    },
+    "463000159815467008": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 32052
+    },
+    "710467869615325278": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 33548
+    },
+    "431845390191689728": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "343776585821847553": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 10149
+    },
+    "571386246685917195": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 0
+    },
+    "714264793116180533": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 51
+    },
+    "714264221197664286": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 63885
+    },
+    "714263897942523986": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 36148
+    },
+    "714263199926452276": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 61075
+    },
+    "714262747310981130": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 63753
+    },
+    "714261393548902430": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 29785
+    },
+    "635184217721929769": {
+        "titre": "www.acheteunevie.fr",
+        "desc": "Si un jour j'ai une biquette, je l'appellerai Knacki.",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 1,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": [
+                "Titre79"
+            ]
+        },
+        "balance": 68670
+    },
+    "586997743478636556": {
+        "titre": "Aucun titre",
+        "desc": "Aucune description",
+        "best_friends": "Aucun(e) meilleur(e) ami(e)",
+        "partner": "Aucun(e) conjoint(e)",
+        "partner_id": null,
+        "badges": "Aucun badge",
+        "succes": "0",
+        "image": null,
+        "rep": 0,
+        "anim_rep": 0,
+        "inv": {
+            "banners": [],
+            "titles": []
+        },
+        "balance": 10000
+    }
+}
