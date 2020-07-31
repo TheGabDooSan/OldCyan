@@ -1,0 +1,39 @@
+{
+    "banners": {
+
+    },
+    "titles":{
+
+    },
+    "shop": {
+        "banners": {
+
+        },
+        "titles": {
+            
+        }
+    },
+    "hourly": {
+        "work": {
+            "min": 0,
+            "max": 100,
+            "messages": {
+
+            }
+        },
+        "battle": {
+            "min": 0,
+            "max": 100,
+            "messages": {
+
+            }
+        },
+        "crime": {
+            "min": 0,
+            "max": 100,
+            "messages": {
+
+            }
+        }
+    }
+}

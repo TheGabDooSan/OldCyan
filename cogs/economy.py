@@ -329,24 +329,9 @@ class Economy(commands.Cog):
                     await ctx.send(embed = await error_embed(
                         error = "Le titre que vous essayez d'ajouter a la boutique n'existe pas."
                     ))
-            elif param == "others" or param == "other" or param == "divers":
-                if name in items['divers']:
-                    items['shop']['divers'][name] = {}
-                    items['shop']['divers'][name]['price'] = int(price)
-                    items['shop']['divers'][name]['desc'] = desc
-                    embed = discord.Embed(
-                        description = f"Objet __{name}__ ajoutée a la boutique avec succès ! Description : ```{desc}```",
-                        colour = randcolour()
-                    )
-                    embed.set_author(name = ctx.author, icon_url = ctx.author.avatar_url)
-                    await ctx.send(embed = embed)
-                else:
-                    await ctx.send(embed = await error_embed(
-                        error = "L'objet que vous essayez d'ajouter a la boutique n'existe pas."
-                    ))
             else:
                 await ctx.send(embed = await error_embed(
-                    error = f"Le paramètre ``{param}`` est invalide. (`banner`, `title`, `divers`)"
+                    error = f"Le paramètre ``{param}`` est invalide. (`banner`, `title`)"
                 ))
             with open("cogs/items.json", "w") as f:
                 json.dump(items, f, indent = 4)
