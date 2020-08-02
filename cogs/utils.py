@@ -5,6 +5,8 @@ from main import randcolour, error_embed
 
 import random
 import asyncio
+import urllib
+import base64
 from datetime import datetime
 from random import randint, randrange, choice
 
@@ -17,6 +19,38 @@ class Utils(commands.Cog):
         return f"{randrange(mini, maxi):03}"
 
     embed_thumb = {"embed": None}
+
+    @commands.command(aliases = ['edit-bot'])
+    async def edit_bot(self, ctx, param: str, *, value: str):
+        if ctx.author.id == 707402860853329931 or ctx.author.id == 274558756522557440:
+            param = param.lower()
+            try:
+                if param == "username" or param == "name":
+                    await self.bot.user.edit(
+                        username = value
+                    )
+                    await ctx.send(f"Username du bot changé en : `{value}`")
+                elif param == "avatar" or param == "icon" or param == "icone":
+                    with urllib.request.urlopen(value) as response:
+                        image = response.read()
+                    await self.bot.user.edit(
+                        avatar = image
+                    )
+                    await ctx.send(f"Avatar du bot changé en : \n`{value}`")
+                else:
+                    await ctx.send(embed = await error_embed(
+                        error = "Vous devez entrer un paramètre valide. (`username` / `avatar`)"
+                    ))
+            except discord.HTTPException as e:
+                await ctx.send(embed = await error_embed(
+                    error_name = "HTTPException",
+                    error = e
+                ))
+            except discord.InvalidArgument as e:
+                await ctx.send(embed = await error_embed(
+                    error_name = "InvalidArgument",
+                    error = e
+                ))
 
     @commands.command(aliases=['create_embed', 'embedmsg', 'msgembed'])
     @has_permissions(administrator=True)

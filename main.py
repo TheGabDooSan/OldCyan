@@ -1,7 +1,7 @@
 import discord
 from discord.utils import get
 from discord.ext import commands, tasks
-from discord.ext.commands import Context, ExtensionNotFound, ExtensionAlreadyLoaded, NoEntryPointError, ExtensionFailed, ExtensionNotLoaded
+from discord.ext.commands import *
 
 import os
 import asyncio
@@ -32,7 +32,7 @@ bot.remove_command('help')
 memory = {"boss_pv": 70000000}
 
 async def status_updater():
-    time = 10
+    time = 20
     while True:
         await bot.change_presence(
             activity = discord.Streaming(name = "🌸❦ EPHEDIA ❦🌸", url = "https://www.twitch.tv/ephediafr")
@@ -52,15 +52,7 @@ async def status_updater():
         )
         await asyncio.sleep(time)
         await bot.change_presence(
-            activity = discord.Streaming(name = "by Kayla 🛠️", url = "https://www.twitch.tv/ephediafr")
-        )
-        await asyncio.sleep(time)
-        await bot.change_presence(
             activity = discord.Streaming(name = "@louana_kay ✏️", url = "https://www.twitch.tv/ephediafr")
-        )
-        await asyncio.sleep(time)
-        await bot.change_presence(
-            activity = discord.Streaming(name = "TheGabDooSan 💻", url = "https://www.twitch.tv/ephediafr")
         )
         await asyncio.sleep(time)
         await bot.change_presence(
@@ -71,11 +63,14 @@ async def status_updater():
 
 @bot.event
 async def on_ready():
-    print('------')
-    print(f'Connected as {bot.user.name} !')
-    print('------')
-    print(f'ID : {bot.user.id}')
-    print('------')
+    print(
+        f'''
+            ------------------
+            --->  [ ONLINE ]
+            <{bot.user.id}>: {bot.user.name}
+            ------------------
+        '''
+    )
     bot.loop.create_task(status_updater())
 
 
@@ -179,4 +174,4 @@ for file_name in os.listdir('./cogs'):
         bot.load_extension('cogs.{}'.format(file_name[:-3]))
 
 
-bot.run("NzA5MDYwNzczMjQ2MTQwNDE2.Xw41WQ.8RKeJM_-oULtgJtjduRrjNFu1po")
+bot.run("NzE2NzU3Njg1NjU1MTc1Mjgx.XtQanA.ks29o3N3cvk2JgnxQjkqNJN_PEM")

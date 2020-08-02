@@ -3,6 +3,8 @@ from discord.ext import commands
 from discord.utils import get
 from main import randcolour, error_embed
 
+from math import ceil
+
 import asyncio, random, json
 
 class Economy(commands.Cog):
@@ -402,14 +404,19 @@ class Economy(commands.Cog):
                 nmb = int(nmb)
                 if name in items['shop']['divers']['contrib']:
                     if profiles[str(ctx.author.id)]['balance'] >= items['shop']['divers']['contrib'][name]:
-                        profiles[str(ctx.author.id)]['balance'] -= items['shop']['divers']['contrib'][name] * nmb
-                        guilds['guilds'][name]['contrib'] += nmb
-                        print(guilds['guilds'][name]['contrib'])
-                        embed = discord.Embed(
-                            colour = randcolour(),
-                            description = f"Vous avez bien acheté {nmb} contribution(s) [`{name}`] pour <a:MagicCoins:728621926809075732>{items['shop']['divers']['contrib'][name] * nmb} Magic Coins. Nombre actuel de contributions de cette guilde : {guilds['guilds'][name]['contrib']}"
-                        )
-                        await ctx.send(embed = embed)
+                        if nmb > 0:
+                            profiles[str(ctx.author.id)]['balance'] -= items['shop']['divers']['contrib'][name] * nmb
+                            guilds['guilds'][name]['contrib'] += nmb
+                            print(guilds['guilds'][name]['contrib'])
+                            embed = discord.Embed(
+                                colour = randcolour(),
+                                description = f"Vous avez bien acheté {nmb} contribution(s) [`{name}`] pour <a:MagicCoins:728621926809075732>{items['shop']['divers']['contrib'][name] * nmb} ({items['shop']['divers']['contrib'][name]} x {nmb}) Magic Coins. Nombre actuel de contributions de cette guilde : {guilds['guilds'][name]['contrib']}"
+                            )
+                            await ctx.send(embed = embed)
+                        else:
+                            await ctx.send(embed = await error_embed(
+                                error = "Vous devez acheter au moins une contribution."
+                            ))
                     else:
                         await ctx.send(embed = await error_embed(
                             error = "Vous n'avez pas assez d'argent pour acheter cet objet."
@@ -442,7 +449,7 @@ class Economy(commands.Cog):
         with open("cogs/items.json", "r") as f:
             items = json.load(f)
         if param.lower() == 'banners' or param.lower() == "bannieres" or param.lower() == "bannières":
-            max_page = 15
+            max_page = ceil(len(items['shop']['banners']) / 15)
 
             first_run = True
             time_table = False
@@ -455,11 +462,11 @@ class Economy(commands.Cog):
                         title = "Boutique",
                         description = "Voici la liste des bannières en vente dans la boutique"
                     )
-                    for x in list(items['shop']['banners'].keys())[:25]:
+                    for x in list(items['shop']['banners'].keys())[:15]:
                         embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['banners'][x]['price']}\n{items['shop']['banners'][x]['desc']}" or "Aucune bannière")
 
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     first_run = False
                     msg = await ctx.send(embed = embed)
@@ -488,14 +495,15 @@ class Economy(commands.Cog):
                     return True
 
                 try:
-                    res, user = await self.bot.wait_for('reaction_add', timeout=30.0, check=check_react)
+                    res, user = await self.bot.wait_for('reaction_add', timeout=60.0, check=check_react)
                 except asyncio.TimeoutError:
                     return await msg.clear_reactions()
                 if user != ctx.message.author:
                     pass
                 elif '⏪' in str(res.emoji):
-                    counter -= 25
+                    counter -= 15
                     num -= 1
+                    rest = len(items['shop']['banners']) - (counter + 15)
                     
                     embed = discord.Embed(
                         colour = randcolour(),
@@ -503,31 +511,34 @@ class Economy(commands.Cog):
                         description = "Voici la liste des bannières en vente dans la boutique"
                     )
                     if num == 1:
-                    	for x in list(items['shop']['banners'].keys())[:25]:
+                    	for x in list(items['shop']['banners'].keys())[:15]:
                         	embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['banners'][x]['price']}\n{items['shop']['banners'][x]['desc']}" or "Aucune bannière")
                     else:
-                    	for x in list(items['shop']['banners'].keys())[counter:]:
+                    	for x in list(items['shop']['banners'].keys())[counter:-rest]:
                         	embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['banners'][x]['price']}\n{items['shop']['banners'][x]['desc']}" or "Aucune bannière")
 
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     await msg.clear_reactions()
                     await msg.edit(embed=embed)
                 elif '⏩' in str(res.emoji):
-                    counter += 25
+                    counter += 15
                     num += 1
+                    rest = len(items['shop']['banners']) - (counter + 15)
+                    if num == max_page:
+                        rest = 1
                     
                     embed = discord.Embed(
                         colour = randcolour(),
                         title = "Boutique",
                         description = "Voici la liste des bannières en vente dans la boutique"
                     )
-                    for x in list(items['shop']['banners'].keys())[counter:]:
+                    for x in list(items['shop']['banners'].keys())[counter:-rest]:
                         embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['banners'][x]['price']}\n{items['shop']['banners'][x]['desc']}" or "Aucune bannière")
 
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     await msg.clear_reactions()
                     await msg.edit(embed=embed)
@@ -540,7 +551,7 @@ class Economy(commands.Cog):
                     await msg.clear_reactions()
                     await msg.edit(embed = embed)
         elif param.lower() == 'titles' or param.lower() == "titres" or param.lower() == "titre":
-            max_page = 15
+            max_page = ceil(len(items['shop']['titles']))
 
             first_run = True
             time_table = False
@@ -554,10 +565,10 @@ class Economy(commands.Cog):
                         title = "Boutique",
                         description = "Voici la liste des titres en vente dans la boutique"
                     )
-                    for x in list(items['shop']['titles'].keys())[:25]:
+                    for x in list(items['shop']['titles'].keys())[:15]:
                         embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['titles'][x]['price']}\n{items['shop']['titles'][x]['desc']}" or "Aucun titre")
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     first_run = False
                     msg = await ctx.send(embed = embed)
@@ -586,15 +597,15 @@ class Economy(commands.Cog):
                     return True
 
                 try:
-                    res, user = await self.bot.wait_for('reaction_add', timeout=30.0, check=check_react)
+                    res, user = await self.bot.wait_for('reaction_add', timeout=60.0, check=check_react)
                 except asyncio.TimeoutError:
                     return await msg.clear_reactions()
                 if user != ctx.message.author:
                     pass
                 elif '⏪' in str(res.emoji):
-                    counter -= 25
+                    counter -= 15
                     num -= 1
-                    maximum += counter + 25
+                    rest = len(items['shop']['titles']) - (counter + 15)
 
                     embed = discord.Embed(
                         colour = randcolour(),
@@ -602,30 +613,32 @@ class Economy(commands.Cog):
                         description = "Voici la liste des titres en vente dans la boutique"
                     )
                     if num == 1:
-                    	for x in list(items['shop']['titles'].keys())[:25]:
+                    	for x in list(items['shop']['titles'].keys())[:15]:
                         	embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['titles'][x]['price']}\n{items['shop']['titles'][x]['desc']}" or "Aucun titre")
                     else:
-                    	for x in list(items['shop']['titles'].keys())[counter:]:
+                    	for x in list(items['shop']['titles'].keys())[counter:-rest]:
                     		embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['titles'][x]['price']}\n{items['shop']['titles'][x]['desc']}" or "Aucun titre")
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     await msg.clear_reactions()
                     await msg.edit(embed=embed)
                 elif '⏩' in str(res.emoji):
                     counter += 25
                     num += 1
-                    maximum -= counter + 25
+                    rest = len(items['shop']['titles']) - (counter + 15)
+                    if num == max_page:
+                        rest = 1
                     
                     embed = discord.Embed(
                         colour = randcolour(),
                         title = "Boutique",
                         description = "Voici la liste des titres en vente dans la boutique"
                     )
-                    for x in list(items['shop']['titles'].keys())[counter:-maximum]:
+                    for x in list(items['shop']['titles'].keys())[counter:-rest]:
                         embed.add_field(name = "** **", value = f"• **{x}** - <a:MagicCoins:728621926809075732>{items['shop']['titles'][x]['price']}\n{items['shop']['titles'][x]['desc']}" or "Aucun titre")
                     embed.set_image(url = "https://cdn.discordapp.com/attachments/712825742253359105/729442017037516800/boutiqueee.png")
-                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/15")
+                    embed.set_footer(text = f"Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS. | Page {num}/{max_page}")
 
                     await msg.clear_reactions()
                     await msg.edit(embed=embed)

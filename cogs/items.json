@@ -1,38 +1,1002 @@
 {
     "banners": {
-
+        "AsunaV1": {
+            "url": "https://imgur.com/bpUMjKu.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "AsunaV2": {
+            "url": "https://imgur.com/X1WEGHF.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AsunaV3": {
+            "url": "https://imgur.com/0DfO2Yd.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AsunaV4": {
+            "url": "https://imgur.com/jWv6Rzc.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AuriannaV1": {
+            "url": "https://imgur.com/EaMsJxc.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "TaliaV1": {
+            "url": "https://imgur.com/HwNzlWb.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "IrisV1": {
+            "url": "https://imgur.com/KIlYrkJ.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "IrisV2": {
+            "url": "https://imgur.com/EeGfUg8.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "IrisV3": {
+            "url": "https://imgur.com/38ZE3Fd.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "CyanV1": {
+            "url": "https://imgur.com/lE0wVxN.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "CyanV2": {
+            "url": "https://imgur.com/UV2lae4.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "CyanV3": {
+            "url": "https://imgur.com/LoS7XUu.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "CyanV4": {
+            "url": "https://imgur.com/4SBAHeU.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "GokuV1": {
+            "url": "https://imgur.com/M9NSaf0.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "GokuV2": {
+            "url": "https://imgur.com/sncCeNH.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "GokuV3": {
+            "url": "https://imgur.com/LSDfaEh.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "VegetaV1": {
+            "url": "https://imgur.com/dfyRcHw.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "VegetaV2": {
+            "url": "https://imgur.com/x4Mz4k2.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "VegetaV3": {
+            "url": "https://imgur.com/QFfFnN8.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HestiaV1": {
+            "url": "https://imgur.com/WmjF7L3.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "HestiaV2": {
+            "url": "https://imgur.com/Moy3qiM.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HestiaV3": {
+            "url": "https://imgur.com/OQu7u44.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HestiaV4": {
+            "url": "https://imgur.com/Wmo3UvB.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HideriV1": {
+            "url": "https://imgur.com/KiB5aLT.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "HideriV2": {
+            "url": "https://imgur.com/WJRNgBI.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HideriV3": {
+            "url": "https://imgur.com/BYEkOq7.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HideriV4": {
+            "url": "https://imgur.com/eD4GPUX.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HinataV1": {
+            "url": "https://imgur.com/SbQD8Y5.png",
+            "type": "C",
+            "rarity": "\\\u2b50\\\u2b50"
+        },
+        "IchigoV1": {
+            "url": "https://imgur.com/lRJ1obY.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "IchigoV2": {
+            "url": "https://imgur.com/urvCBXx.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "IchigoV3": {
+            "url": "https://imgur.com/oBcbBGJ.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "YamamotoV1": {
+            "url": "https://imgur.com/LsnTr4u.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SoiFonV1": {
+            "url": "https://imgur.com/GB1DHoS.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "GinV1": {
+            "url": "https://imgur.com/A3Swftz.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "UnohanaV1": {
+            "url": "https://imgur.com/BNka6Lq.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AizenV1": {
+            "url": "https://imgur.com/StQS1ix.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ByakuyaV1": {
+            "url": "https://imgur.com/LyDN8xt.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KomamuraV1": {
+            "url": "https://imgur.com/D7JXupX.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KyorakuV1": {
+            "url": "https://imgur.com/GY2XvRg.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KanameV1": {
+            "url": "https://imgur.com/ogPSb28.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "HitsugayaV1": {
+            "url": "https://imgur.com/OBjVfVx.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KenpachiV1": {
+            "url": "https://imgur.com/Sl8s3zi.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MayuriV1": {
+            "url": "https://imgur.com/BAR8CUU.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "UkitakeV1": {
+            "url": "https://imgur.com/Rin5gqz.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RukiaV1": {
+            "url": "https://imgur.com/usFLxuD.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "RukiaV2": {
+            "url": "https://imgur.com/WLBGgTw.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RukiaV3": {
+            "url": "https://imgur.com/fY5zFws.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RukiaV4": {
+            "url": "https://imgur.com/qO4BezS.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "JosephV1": {
+            "url": "https://imgur.com/BUCC0AX.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "JosukeV1": {
+            "url": "https://imgur.com/I2xVjhF.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "JotaroV1": {
+            "url": "https://imgur.com/JW9AgnL.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "DioV1": {
+            "url": "https://imgur.com/KZDvEfW.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KiraV1": {
+            "url": "https://imgur.com/ufwnFU2.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "GiornoV1": {
+            "url": "https://imgur.com/tHZ4meT.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KannaV1": {
+            "url": "https://imgur.com/dTmXIoi.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "KannaV2": {
+            "url": "https://imgur.com/xOSrgay.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KannaV3": {
+            "url": "https://imgur.com/om2nepp.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KannaV4": {
+            "url": "https://imgur.com/BeAdXkN.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "LuffyV1": {
+            "url": "https://imgur.com/0FEF2gG.png",
+            "type": "C",
+            "rarity": "\\\u2b50\\\u2b50"
+        },
+        "LuffyV2": {
+            "url": "https://imgur.com/7j7XqxH.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "LuffyV3": {
+            "url": "https://imgur.com/CxtND9Y.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "LuffyV4": {
+            "url": "https://imgur.com/yKgy1Nb.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ZoroV1": {
+            "url": "https://imgur.com/hVtKUml.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "NamiV1": {
+            "url": "https://imgur.com/en90oKw.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RobinV1": {
+            "url": "https://imgur.com/huCCf3P.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "UsoppV1": {
+            "url": "https://imgur.com/URCU8g7.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "FrankyV1": {
+            "url": "https://imgur.com/V6kePlo.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ChopperV1": {
+            "url": "https://imgur.com/QoUSZVn.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "BrookV1": {
+            "url": "https://imgur.com/kWkB0oj.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "IceV1": {
+            "url": "https://imgur.com/jhZNWvb.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "LawV1": {
+            "url": "https://imgur.com/PEq9y6b.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "DoflamingoV1": {
+            "url": "https://imgur.com/4wnMdIz.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MashiroV1": {
+            "url": "https://imgur.com/vrA39hI.png",
+            "type": "C",
+            "rarity": "\\\u2b50\\\u2b50"
+        },
+        "MisakiV1": {
+            "url": "https://imgur.com/HMIaKUr.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "MisakiV2": {
+            "url": "https://imgur.com/9zi5SAt.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "NarutoV1": {
+            "url": "https://imgur.com/03tHXNu.png",
+            "type": "C",
+            "rarity": "\\\u2b50\\\u2b50"
+        },
+        "NarutoV2": {
+            "url": "https://imgur.com/sddinfO.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RemV1": {
+            "url": "https://imgur.com/dfWCld6.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "RemV2": {
+            "url": "https://imgur.com/uyjO9AI.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RemV3": {
+            "url": "https://imgur.com/rFUY2LO.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RemV4": {
+            "url": "https://imgur.com/zmG919v.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SaberV1": {
+            "url": "https://imgur.com/WZHzAQP.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "SaberV2": {
+            "url": "https://imgur.com/boC3on5.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SaberV3": {
+            "url": "https://imgur.com/fL7qMw0.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SaberV4": {
+            "url": "https://imgur.com/HUaWDt2.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SagiriV1": {
+            "url": "https://imgur.com/7Q78uCR.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "SagiriV2": {
+            "url": "https://imgur.com/43G9bMy.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SagiriV3": {
+            "url": "https://imgur.com/lo2VRpQ.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SagiriV4": {
+            "url": "https://imgur.com/XlVtrzn.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "TaigaV1": {
+            "url": "https://imgur.com/yMWBfMj.png",
+            "type": "C",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "TaigaV2": {
+            "url": "https://imgur.com/okIVwY9.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "TaigaV3": {
+            "url": "https://imgur.com/jA9T9Zi.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "TaigaV4": {
+            "url": "https://imgur.com/7JcX04x.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "YugiV1": {
+            "url": "https://imgur.com/DXnUMvp.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        }
     },
-    "titles":{
-
+    "titles": {
+        "Titre1": {
+            "value": "Au jour le jour"
+        },
+        "Titre2": {
+            "value": "Consid\u00e9rez que c'est fait"
+        },
+        "Titre3": {
+            "value": "Illuminati"
+        },
+        "Titre4": {
+            "value": "Gentille sorci\u00e8re"
+        },
+        "Titre5": {
+            "value": "Coco, prend un g\u00e2teau"
+        },
+        "Titre6": {
+            "value": "L'homme de fer"
+        },
+        "Titre7": {
+            "value": "Irr\u00e9sistible attirance"
+        },
+        "Titre8": {
+            "value": "Les vieux soldats ne meurent jamais."
+        },
+        "Titre9": {
+            "value": "Lionne"
+        },
+        "Titre10": {
+            "value": "Danse avec les loups"
+        },
+        "Titre11": {
+            "value": "Commando"
+        },
+        "Titre12": {
+            "value": "Seul au monde"
+        },
+        "Titre13": {
+            "value": "Je n'ai rien vu !"
+        },
+        "Titre14": {
+            "value": "Jeunesse \u00e9ternelle"
+        },
+        "Titre15": {
+            "value": "Princesse charmante"
+        },
+        "Titre16": {
+            "value": "B\u00e9n\u00e9diction de la d\u00e9esse"
+        },
+        "Titre17": {
+            "value": "Carpe Diem"
+        },
+        "Titre18": {
+            "value": "G\u00e9neration fortun\u00e9e"
+        },
+        "Titre19": {
+            "value": "Loin des yeux, pr\u00e8s du c\u0153ur"
+        },
+        "Titre20": {
+            "value": "Fashionista"
+        },
+        "Titre21": {
+            "value": "Ding Dong"
+        },
+        "Titre22": {
+            "value": "Geek Amoureux"
+        },
+        "Titre23": {
+            "value": "Les malades droivent prendre leurs m\u00e9dicaments"
+        },
+        "Titre24": {
+            "value": "L'h\u00e9ritier de la destin\u00e9e"
+        },
+        "Titre25": {
+            "value": "Voyageur temporel"
+        },
+        "Titre26": {
+            "value": "Vous \u00eates ce que vous \u00eates."
+        },
+        "Titre27": {
+            "value": "Calin masochite"
+        },
+        "Titre28": {
+            "value": "Hack'n'slash"
+        },
+        "Titre29": {
+            "value": "Dieu de la cr\u00e9ation"
+        },
+        "Titre30": {
+            "value": "Dieu de la destruction"
+        },
+        "Titre31": {
+            "value": "Dieu des dieux"
+        }
     },
     "shop": {
         "banners": {
-
+            "VegetaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re VegetaV3 - Dragon Ball Z"
+            },
+            "AsunaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re Asuna V1 - Sao"
+            },
+            "AsunaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re Asuna V2 - Sao"
+            },
+            "AsunaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re Asuna V3 - Sao"
+            },
+            "AsunaV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re Asuna V3 - Sao"
+            },
+            "AuriannaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re AuriannaV1 - Lolirock"
+            },
+            "TaliaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re TaliaV1 - Lolirock"
+            },
+            "IrisV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IrisV1 - Lolirock"
+            },
+            "IrisV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IrisV2 - Lolirock"
+            },
+            "IrisV3": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IrisV3 - Lolirock"
+            },
+            "CyanV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re CyanV1 - Show By Rock"
+            },
+            "CyanV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re CyanV2 - Show By Rock"
+            },
+            "CyanV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re CyanV3 - Show By Rock"
+            },
+            "CyanV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re CyanV4 - Show By Rock"
+            },
+            "GokuV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re GokuV1 - Dragon Ball Z"
+            },
+            "GokuV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re GokuV2 - Dragon Ball Z"
+            },
+            "GokuV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re GokuV3 - Dragon Ball Z"
+            },
+            "VegetaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re VegetaV1 - Dragon Ball Z"
+            },
+            "VegetaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re VegetaV2 - Dragon Ball Z"
+            },
+            "HestiaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HestiaV1 - Dan machi"
+            },
+            "HestiaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HestiaV2 - Dan machi"
+            },
+            "HestiaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HestiaV3 - Dan machi"
+            },
+            "HestiaV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HestiaV4 - Dan machi"
+            },
+            "HideriV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HideriV1 - Blend S"
+            },
+            "HideriV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HideriV2 - Blend S"
+            },
+            "HideriV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HideriV3 - Blend S"
+            },
+            "HideriV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HideriV4 - Blend S"
+            },
+            "HinataV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HinataV1 - Naruto"
+            },
+            "IchigoV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IchigoV1 - Bleach"
+            },
+            "IchigoV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IchigoV2 - Bleach"
+            },
+            "IchigoV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IchigoV3 - Bleach"
+            },
+            "YamamotoV1": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re YamamotoV1 - Bleach"
+            },
+            "SoiFonV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SoiFonV1 - Bleach"
+            },
+            "GinV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re GinV1 - Bleach"
+            },
+            "UnohanaV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re UnohanaV1 - Bleach"
+            },
+            "AizenV1": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re AizenV1 - Bleach"
+            },
+            "ByakuyaV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re ByakuyaV1 - Bleach"
+            },
+            "KomamuraV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KomamuraV1 - Bleach"
+            },
+            "KyorakuV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KyorakuV1 - Bleach"
+            },
+            "KanameV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KanameV1 - Bleach"
+            },
+            "HitsugayaV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re HitsugayaV1 - Bleach"
+            },
+            "KenpachiV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KenpachiV1 - Bleach"
+            },
+            "MayuriV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re MayuriV1 - Bleach"
+            },
+            "UkitakeV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re UkitakeV1 - Bleach"
+            },
+            "RukiaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RukiaV1 - Bleach"
+            },
+            "RukiaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RukiaV2 - Bleach"
+            },
+            "RukiaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RukiaV3 - Bleach"
+            },
+            "RukiaV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RukiaV4 - Bleach"
+            },
+            "JosephV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re JosephV1 - JoJo's Bizarre Adventure"
+            },
+            "JosukeV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re JosukeV1 - JoJo's Bizarre Adventure"
+            },
+            "JotaroV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re JotaroV1 - JoJo's Bizarre Adventure"
+            },
+            "DioV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re DioV1 - JoJo's Bizarre Adventure"
+            },
+            "KiraV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KiraV1 - JoJo's Bizarre Adventure"
+            },
+            "GiornoV1": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re GiornoV1 - JoJo's Bizarre Adventure"
+            },
+            "KannaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KannaV1 - Miss kobayashi"
+            },
+            "KannaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KannaV2 - Miss kobayashi"
+            },
+            "KannaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KannaV3 - Miss kobayashi"
+            },
+            "KannaV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re KannaV4 - Miss kobayashi"
+            },
+            "LuffyV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re LuffyV1 - One pi\u00e8ce"
+            },
+            "LuffyV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re LuffyV2 - One pi\u00e8ce"
+            },
+            "LuffyV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re LuffyV3 - One pi\u00e8ce"
+            },
+            "LuffyV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re LuffyV4 - One pi\u00e8ce"
+            },
+            "ZoroV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re ZoroV1 - One pi\u00e8ce"
+            },
+            "NamiV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re NamiV1 - One pi\u00e8ce"
+            },
+            "RobinV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RobinV1 - One pi\u00e8ce"
+            },
+            "UsoppV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re UsoppV1 - One pi\u00e8ce"
+            },
+            "FrankyV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re FrankyV1 - One pi\u00e8ce"
+            },
+            "ChopperV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re ChopperV1 - One pi\u00e8ce"
+            },
+            "BrookV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re BrookV1 - One pi\u00e8ce"
+            },
+            "IceV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re IceV1 - One pi\u00e8ce"
+            },
+            "LawV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re LawV1 - One pi\u00e8ce"
+            },
+            "DoflamingoV1": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re DoflamingoV1 - One pi\u00e8ce"
+            },
+            "MashiroV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re MashiroV1 - Sakurasou no Pet na Kanojo"
+            },
+            "MisakiV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re MisakiV1 - Another"
+            },
+            "MisakiV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re MisakiV2 - Another"
+            },
+            "NarutoV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re NarutoV1 - Naruto"
+            },
+            "NarutoV2": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re NarutoV2 - Naruto"
+            },
+            "RemV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RemV1 - Re:Zero"
+            },
+            "RemV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RemV2 - Re:Zero"
+            },
+            "RemV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RemV3 - Re:Zero"
+            },
+            "RemV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re RemV4 - Re:Zero"
+            },
+            "SaberV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SaberV1 - Fate Stay Night"
+            },
+            "SaberV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SaberV2 - Fate Stay Night"
+            },
+            "SaberV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SaberV3 - Fate Stay Night"
+            },
+            "SaberV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SaberV4 - Fate Stay Night"
+            },
+            "SagiriV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SagiriV1 - Ero manga"
+            },
+            "SagiriV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SagiriV2 - Ero manga"
+            },
+            "SagiriV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SagiriV3 - Ero manga"
+            },
+            "SagiriV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re SagiriV4 - Ero manga"
+            },
+            "TaigaV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re TaigaV1 - Toradora"
+            },
+            "TaigaV2": {
+                "price": 249000,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re TaigaV2 - Toradora"
+            },
+            "TaigaV3": {
+                "price": 349999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re TaigaV3 - Toradora"
+            },
+            "TaigaV4": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re TaigaV4 - Toradora"
+            },
+            "YugiV1": {
+                "price": 149999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re YugiV1 - Yu gi ho"
+            }
         },
-        "titles": {
-            
+        "titles": {},
+        "divers": {
+            "contrib": {
+                "calix": 1499,
+                "xeris": 1499,
+                "divinity": 1499,
+                "volta": 1499,
+                "borealise": 1499,
+                "ephedia": 1499
+            }
         }
     },
     "hourly": {
         "work": {
             "min": 0,
-            "max": 100,
+            "max": 5000,
             "messages": {
-
+                "1": "test",
+                "2": "<a:724298582089269269:725374187010785364> Vous avez re\u00e7u la paye du mois dernier. vous obtenez {gain}",
+                "3": "<a:4147_magical_heart:722852234072686672> Apr\u00e8s une bonne journ\u00e9e de travail , vous \u00eates r\u00e9compens\u00e9 par votre patron, vous obtenez {gain}",
+                "4": "<:ss19:711641684991148115> Vous avez r\u00e9ussi parfaitement la transaction bancaire de l'entreprise ephedia kingdom fr sur votre compte afin de toucher vos revenues quotidien, vous obtenez {gain}",
+                "5": "<a:721274692564025399:725374014310055997> Votre patron est fi\u00e8re de vous, vous obtenez {gain}",
+                "6": "<a:716785945717768273:723013461612953601> Sah quel bonheur de travailler, vous obtenez {gain}",
+                "7": "<a:637336657598873632:723013374677483521> Tu ne sais pas pourquoi ton patron te demande cela, mais tu le fais, vous obtenez {gain}",
+                "8": "<a:652433124797710348:723013382772359238> Des paillettes woahhhh ! des PAILLETTES, le studio de noel que votre patron vous a demand\u00e9 de pr\u00e9parer est splendide, vous obtenez {gain}",
+                "9": "<:4832_RyukoSip:708214587836727396> Vous obtenez un jour de cong\u00e9 pay\u00e9, vous obtenez {gain}",
+                "10": "<a:724298582089269269:725374187010785364> Vous avez re\u00e7u un don d'\u00e9ph\u00e9dia kingdom fr, vous obtenez {gain}"
             }
         },
         "battle": {
             "min": 0,
-            "max": 100,
+            "max": 5000,
             "messages": {
-
+                "1": "<a:652438428788588544:723013400598151208>  J'invoque ma carte pi\u00e8ge ! Miroir magique !  votre adversaire est hors-combat, vous obtenez {gain}",
+                "2": "<a:719072150325297223:723015610115686411> Aquali je te choisi ! attaque hydro canon ! le groudon adverse est hors combat. vous obtenez {gain}",
+                "3": "<a:698670412720111698:725374157247742042> YA ta ta tatatatatatata ! Hyper cute ! l'adversaire ayant peur de vous, d\u00e9clare forfait,  vous obtenez {gain}"
             }
         },
         "crime": {
             "min": 0,
-            "max": 100,
+            "max": 5000,
             "messages": {
-
+                "1": "<:ss28:708214589132898334> Vous avez tu\u00e9 un sbire du mal, vous obtenez {gain}",
+                "2": "<:KannaKms:708214644191526992> Vous avez r\u00e9alis\u00e9 le crime parfait, hier soir, vous \u00eates allez chez votre copine, apr\u00e8s une partie de cluedo, elle est all\u00e9 dormir, vous avez inject\u00e9 dans dans un verre d'eau un poisson mortel d'une plante local qui se trouve \u00e0 c\u00f4t\u00e9 du lit, les scientifiques conclue \u00e0 une mort accidentelle, vous obtenez {gain}",
+                "3": "Dans une nuit bien sombre, vous avez \u00e9cras\u00e9 un individu , dans la panique vous avez ramass\u00e9 son porte monnaie, vous avez pris l'argent pour partir loin de la sc\u00e8ne du crime,  vous obtenez {gain}",
+                "4": "<a:717610009222971452:725374064746823680> Vous avez cambriol\u00e9 la banque d'irotuka, rip Toamix, vous obtenez {gain}",
+                "5": "<a:710753428388708394:725374051723247637> Vous avez donn\u00e9 un croche pied \u00e0 un cycliste qui ... faisait du v\u00e9lo ? en tombant par terre, de l'argent s'\u00e9chappa, vous obtenez {gain}",
+                "6": "<:ConceitedReaction:708214637455474719> Baisse t'es yeux quand je te parle. Vous obtenez {gain}",
+                "7": "<a:610082855904870400:723013331388203128> Vous avez tu\u00e9 le boss du dernier niveau. Vous obtenez {gain}",
+                "8": "<:MonkaChrist:708214664508735570> Afin de punir le copain de v\u00f4tre ex, vous avez utilis\u00e9 les forces 666 et compagnie, le mal vous r\u00e9compense pour avoir poss\u00e9d\u00e9 son corp, Il vous donne {gain}",
+                "9": "<a:E13:722891312512237708> Vous avez trouv\u00e9 le moyen de dupliquer de la monnaie comme sur un glitch de GTA V, vous obtenez {gain}",
+                "10": "<a:721274690248900629:725374170766115147> Vous avez tu\u00e9 accidentellement votre conjoint en lui faisant un calin, il est mort \u00e9touff\u00e9, vous obtenez {gain}"
             }
         }
     }
