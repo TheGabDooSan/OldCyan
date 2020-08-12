@@ -179,19 +179,25 @@ class Profiles(commands.Cog):
             if member.id != ctx.author.id:
                 with open("cogs/profile.json", "r") as f:
                     profiles_file = json.load(f)
-                if str(member.id) in profiles_file.keys():
-                    embed = discord.Embed(
-                        title="Réputation",
-                        colour=randcolour(),
-                        description=f"{ctx.author.mention} donne un point de réputation a {member.mention}"
-                    )
-                    profiles_file[str(member.id)]['rep'] += 1
-                    with open("cogs/profile.json", "w") as f:
-                        json.dump(profiles_file, f, indent=4)
-                    await ctx.send(embed=embed)
+                if str(ctx.author.id) in profiles_file.keys():
+                    if str(member.id) in profiles_file.keys():
+                        embed = discord.Embed(
+                            title="Réputation",
+                            colour=randcolour(),
+                            description=f"{ctx.author.mention} donne un point de réputation a {member.mention}"
+                        )
+                        profiles_file[str(member.id)]['rep'] += 1
+                        with open("cogs/profile.json", "w") as f:
+                            json.dump(profiles_file, f, indent=4)
+                        await ctx.send(embed=embed)
+                    else:
+                        await ctx.send(embed=await error_embed(
+                            error=f"{member.mention} doit d'abord s'enregistrer pour recevoir un point de réputation ! (`:!register`)"
+                        ))
+                        ctx.command.reset_cooldown(ctx)
                 else:
                     await ctx.send(embed=await error_embed(
-                        error=f"{member.mention} doit d'abord s'enregistrer pour recevoir un point de réputation ! (`:!register`)"
+                        error=f"Vous devez d'abord vous enregistrer pour donner un point de réputation ! (`:!register`)"
                     ))
                     ctx.command.reset_cooldown(ctx)
             else:

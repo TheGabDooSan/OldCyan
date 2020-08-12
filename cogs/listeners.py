@@ -2,6 +2,8 @@ import discord
 from discord.ext import commands
 from discord.utils import get
 
+from main import randcolour
+
 class Listeners(commands.Cog):
 
     def __init__(self, bot):
@@ -12,6 +14,21 @@ class Listeners(commands.Cog):
         name = member.mention
         channel = get(member.guild.channels, id = 707247334391545897)  # ID : 707064288715472968
 
+        embed = discord.Embed(
+            colour = randcolour(),
+            description = 
+            f'''
+                <a:E21:722912788397293600> Bienvenue à toi {member.mention} sur notre serveur.
+                <a:584892968490762246:722923101565878315> Graçe à toi, nous sommes désormais {len(member.guild.members)} !
+            ''',
+            title = "Bienvenue sur Ephedia Kingdom FR !"
+        )
+        embed.set_thumbnail(url = "https://imgur.com/YmjL03e.png")
+        embed.set_footer(text = "Ⓒ 2020 Ephedia Kingdom FR. TOUS DROITS RÉSERVÉS.")
+
+        await channel.send(embed = embed)
+
+        """
         await channel.send("█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\n"
                            "<a:E7:722891236922490990> ❦ ►█▓▒░█░░▒▒▓█▒░ <a:E27:722912864033177750>**__❦EPHEDIA❦__**<a:E28:722912873868689540>  ░▒█▓▒▒░░█░▒▓█◄ ❦<a:E7:722891236922490990>\n"
                            "█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█\n"
@@ -27,13 +44,8 @@ class Listeners(commands.Cog):
                            "█▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀█\n"
                            "║<a:710004888536350741:722923208445263923> https://i.kym-cdn.com/photos/images/newsfeed/001/004/296/162.gif <a:710004888536350741:722923208445263923>\n"
                            "█▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄█".format(name, str(len(member.guild.members))))
-    
-    @commands.Cog.listener()
-    async def on_member_remove(self, member: discord.Member):
-        name = member.name
-        channel = get(member.guild.channels, id = 707247334391545897)  # ID : 707064288715472968
-
-        await channel.send("{} **__a  quitté le serveur, quel dommage, 1 de perdu 10 de retrouvé <:20:714630072786485265> __**".format(name))
+        """
+        
 
     @commands.Cog.listener()
     async def on_message(self, message):

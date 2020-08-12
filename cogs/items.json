@@ -469,101 +469,557 @@
             "url": "https://imgur.com/DXnUMvp.png",
             "type": "C",
             "rarity": "\\\u2b50"
+        },
+        "SeiyaV1": {
+            "url": "https://imgur.com/INT7F0r.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "SeiyaV2": {
+            "url": "https://imgur.com/Fa4ZS2I.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SeiyaV3": {
+            "url": "https://imgur.com/eLqwUf4.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MuV1": {
+            "url": "https://imgur.com/Uuu2yZV.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AldebarantV1": {
+            "url": "https://imgur.com/w2SAmQt.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SagaV1": {
+            "url": "https://imgur.com/39t7BaI.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MasqueDeMortV1": {
+            "url": "https://imgur.com/in0JFsN.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AioliaV1": {
+            "url": "https://imgur.com/UUzU8Ns.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ShakaV1": {
+            "url": "https://imgur.com/VICMWtg.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "DohkoV1": {
+            "url": "https://imgur.com/PFJtW2B.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MiloV1": {
+            "url": "https://imgur.com/tzANpg5.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AiolosV1": {
+            "url": "https://imgur.com/4jWXDfA.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ShuraV1": {
+            "url": "https://imgur.com/sPmfvAJ.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "CamusV1": {
+            "url": "https://imgur.com/IZJn0hP.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AphroditeV1": {
+            "url": "https://imgur.com/kHnGwkB.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AthenaV1": {
+            "url": "https://imgur.com/0jMiUWb.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "Had\u00e8sV1": {
+            "url": "https://imgur.com/4nfIqpr.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AyanamiV1": {
+            "url": "https://imgur.com/D1PedRz.png",
+            "type": "C",
+            "rarity": "\\\u2b50"
+        },
+        "AyanamiV2": {
+            "url": "https://imgur.com/8VzUrLU.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AyanamiV3": {
+            "url": "https://imgur.com/xXdf60l.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AyanamiV4": {
+            "url": "https://imgur.com/GuxnYGS.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AyanamiV5": {
+            "url": "https://imgur.com/4FskjUE.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "MarkV2": {
+            "url": "https://imgur.com/1yMA6yz.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AxelV1": {
+            "url": "https://imgur.com/Q8qBTIt.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "JanusV1": {
+            "url": "https://imgur.com/PqTKEFE.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "NellyV1": {
+            "url": "https://imgur.com/C7V9m3H.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "C\u00e9liaV1": {
+            "url": "https://imgur.com/ty2fp5x.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SilviaV1": {
+            "url": "https://imgur.com/qgi3gcx.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "GaielV1": {
+            "url": "https://imgur.com/r4NkQLs.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "LV1": {
+            "url": "https://imgur.com/hub62LH.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "WilliamV1": {
+            "url": "https://imgur.com/5dQQJ9v.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "UlrichV1": {
+            "url": "https://imgur.com/clvQ9QT.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RayV1": {
+            "url": "https://imgur.com/wifQeKb.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "EmmaV1": {
+            "url": "https://imgur.com/sxJEHbr.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "NormanV1": {
+            "url": "https://imgur.com/LIVjlSI.png",
+            "type": "B",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "NERV2": {
+            "url": "https://imgur.com/9EYcs1w.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "KiritoV1": {
+            "url": "https://imgur.com/ZX1idO6.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AsukiriV1": {
+            "url": "https://imgur.com/KG4RShk.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "ToamixV1": {
+            "url": "https://imgur.com/0dfZcle.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "CyanV5": {
+            "url": "https://imgur.com/SFY1QwU.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "RemV5": {
+            "url": "https://imgur.com/eRC2POr.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SaberV5": {
+            "url": "https://imgur.com/6dspaxF.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SagiriV5": {
+            "url": "https://imgur.com/ZGUnSUK.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "YunoV2": {
+            "url": "https://imgur.com/6WDMwpe.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "TaigaV5": {
+            "url": "https://imgur.com/RgysV1N.gif",
+            "type": "Z",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "AkkoV1": {
+            "url": "https://imgur.com/CBrS2T1.png",
+            "type": "A",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "SaitamaV1": {
+            "url": "https://imgur.com/KnqGYbJ.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
+        },
+        "FlannyV1": {
+            "url": "https://imgur.com/cluEZqJ.png",
+            "type": "S",
+            "rarity": "\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50\\\u2b50"
         }
     },
     "titles": {
         "Titre1": {
-            "value": "Au jour le jour"
+            "value": "Je suis un homme, un vrai."
         },
         "Titre2": {
-            "value": "Consid\u00e9rez que c'est fait"
+            "value": "Je suis une femme, une vrai."
         },
         "Titre3": {
-            "value": "Illuminati"
+            "value": "Noob"
         },
         "Titre4": {
-            "value": "Gentille sorci\u00e8re"
+            "value": "D\u00e9butant"
         },
         "Titre5": {
-            "value": "Coco, prend un g\u00e2teau"
+            "value": "Novice"
         },
         "Titre6": {
-            "value": "L'homme de fer"
+            "value": "Expert"
         },
         "Titre7": {
-            "value": "Irr\u00e9sistible attirance"
+            "value": "Musicien"
         },
         "Titre8": {
-            "value": "Les vieux soldats ne meurent jamais."
+            "value": "Guitariste"
         },
         "Titre9": {
-            "value": "Lionne"
+            "value": "1 2 3 soleil !"
         },
         "Titre10": {
-            "value": "Danse avec les loups"
+            "value": "Attrape moi si tu peux"
         },
         "Titre11": {
-            "value": "Commando"
+            "value": "C'est la guerre !"
         },
         "Titre12": {
-            "value": "Seul au monde"
+            "value": "Nous sommes en guerre."
         },
         "Titre13": {
-            "value": "Je n'ai rien vu !"
+            "value": "Guerrier de discord"
         },
         "Titre14": {
-            "value": "Jeunesse \u00e9ternelle"
+            "value": "Gardienne de discord"
         },
         "Titre15": {
-            "value": "Princesse charmante"
+            "value": "Humain"
         },
         "Titre16": {
-            "value": "B\u00e9n\u00e9diction de la d\u00e9esse"
+            "value": "Humaine"
         },
         "Titre17": {
-            "value": "Carpe Diem"
+            "value": "Shinigami"
         },
         "Titre18": {
-            "value": "G\u00e9neration fortun\u00e9e"
+            "value": "Vice-capitaine"
         },
         "Titre19": {
-            "value": "Loin des yeux, pr\u00e8s du c\u0153ur"
+            "value": "Capitaine"
         },
         "Titre20": {
-            "value": "Fashionista"
+            "value": "Commandant"
         },
         "Titre21": {
-            "value": "Ding Dong"
+            "value": "Hollow"
         },
         "Titre22": {
-            "value": "Geek Amoureux"
+            "value": "Arrancar"
         },
         "Titre23": {
-            "value": "Les malades droivent prendre leurs m\u00e9dicaments"
+            "value": "Espada"
         },
         "Titre24": {
-            "value": "L'h\u00e9ritier de la destin\u00e9e"
+            "value": "dresseur de pokemon"
         },
         "Titre25": {
-            "value": "Voyageur temporel"
+            "value": "Champion d'arene"
         },
         "Titre26": {
-            "value": "Vous \u00eates ce que vous \u00eates."
+            "value": "Conseil 4"
         },
         "Titre27": {
-            "value": "Calin masochite"
+            "value": "Ma\u00eetre de la ligue"
         },
         "Titre28": {
-            "value": "Hack'n'slash"
+            "value": "..."
         },
         "Titre29": {
-            "value": "Dieu de la cr\u00e9ation"
+            "value": "Sayan"
         },
         "Titre30": {
-            "value": "Dieu de la destruction"
+            "value": "Super Sayan"
         },
         "Titre31": {
+            "value": "Kamehameha !"
+        },
+        "Titre32": {
+            "value": "Ephedia"
+        },
+        "Titre33": {
+            "value": "Volta"
+        },
+        "Titre34": {
+            "value": "X\u00e9ris"
+        },
+        "Titre35": {
+            "value": "Bor\u00e9alise"
+        },
+        "Titre36": {
+            "value": "Calix"
+        },
+        "Titre37": {
+            "value": "Prince d'ephedia"
+        },
+        "Titre38": {
+            "value": "Princesse d'ephedia"
+        },
+        "Titre39": {
+            "value": "Prince de discord"
+        },
+        "Titre40": {
+            "value": "Princesse de discord"
+        },
+        "Titre41": {
+            "value": "Prince de volta"
+        },
+        "Titre42": {
+            "value": "Princesse de volta"
+        },
+        "Titre43": {
+            "value": "Prince de x\u00e9ris"
+        },
+        "Titre44": {
+            "value": "Princesse de x\u00e9ris"
+        },
+        "Titre45": {
+            "value": "Prince de bor\u00e9alise"
+        },
+        "Titre46": {
+            "value": "Princesse de bor\u00e9alise"
+        },
+        "Titre47": {
+            "value": "Prince de calix"
+        },
+        "Titre48": {
+            "value": "Princesse de calix"
+        },
+        "Titre49": {
+            "value": "Irotuka"
+        },
+        "Titre50": {
+            "value": "Irotukien"
+        },
+        "Titre51": {
+            "value": "Irotukienne"
+        },
+        "Titre52": {
+            "value": "Ma\u00eetre des croissants !"
+        },
+        "Titre53": {
+            "value": "Lionne"
+        },
+        "Titre54": {
+            "value": "Styliste"
+        },
+        "Titre55": {
+            "value": "Je suis une star"
+        },
+        "Titre56": {
+            "value": "Top model"
+        },
+        "Titre57": {
+            "value": "Idole de discord"
+        },
+        "Titre58": {
+            "value": "Je suis une l\u00e9gende"
+        },
+        "Titre59": {
+            "value": "Inoubliable"
+        },
+        "Titre60": {
+            "value": "Route c\u00e9leste"
+        },
+        "Titre61": {
+            "value": "J'ai beaucoup d'amis"
+        },
+        "Titre62": {
+            "value": "Geek amoureux"
+        },
+        "Titre63": {
+            "value": "Calin masochiste"
+        },
+        "Titre64": {
+            "value": "Main gauche de la sagesse"
+        },
+        "Titre65": {
+            "value": "Main droite de la maladresse"
+        },
+        "Titre66": {
+            "value": "666"
+        },
+        "Titre67": {
+            "value": "Illuminati"
+        },
+        "Titre68": {
+            "value": "hm... it's very weird..."
+        },
+        "Titre69": {
+            "value": "69"
+        },
+        "Titre70": {
+            "value": "Pourquoi tant de N ?,  S Parceque personne ne vous M ?"
+        },
+        "Titre71": {
+            "value": "Vous \u00eates ce que vous \u00eates."
+        },
+        "Titre72": {
+            "value": "Chevalier de bronze"
+        },
+        "Titre73": {
+            "value": "Chevalier d'argent"
+        },
+        "Titre74": {
+            "value": "Chevalier d'or"
+        },
+        "Titre75": {
+            "value": "Grand pope"
+        },
+        "Titre76": {
+            "value": "Divinit\u00e9"
+        },
+        "Titre77": {
+            "value": "Dieu de la cr\u00e9ation"
+        },
+        "Titre78": {
+            "value": "Dieu de la destruction"
+        },
+        "Titre79": {
+            "value": "D\u00e9esse de la victoire"
+        },
+        "Titre80": {
+            "value": "D\u00e9esse de la guerre"
+        },
+        "Titre81": {
             "value": "Dieu des dieux"
+        },
+        "Titre82": {
+            "value": "Jusqu'as ce que la mort nous s\u00e9pare."
+        },
+        "Titre83": {
+            "value": "Jusqu'as ce qu'un de nous meurt."
+        },
+        "Titre84": {
+            "value": "Les malades droivent prendres leurs m\u00e9dicaments."
+        },
+        "Titre85": {
+            "value": "Quand il faut faire vite, il faut fervex."
+        },
+        "Titre86": {
+            "value": "Tremblez devant nous , pauvre mortels !"
+        },
+        "Titre87": {
+            "value": "Angela,  appel moi ce soir ~"
+        },
+        "Vip1": {
+            "value": "__Roi des monarques__"
+        },
+        "Vip2": {
+            "value": "__Monarque du temps__"
+        },
+        "Vip3": {
+            "value": "__Zahard__"
+        },
+        "Titre88": {
+            "value": "Enqu\u00eateur"
+        },
+        "Titre89": {
+            "value": "Sherlock"
+        },
+        "Titre90": {
+            "value": "Professeur Layton"
+        },
+        "Titre91": {
+            "value": "L"
+        },
+        "Titre92": {
+            "value": "Premier ministre"
+        },
+        "Titre93": {
+            "value": "Vice-pr\u00e9sident"
+        },
+        "Titre94": {
+            "value": "Pr\u00e9sident de la r\u00e9publique"
+        },
+        "Titre95": {
+            "value": "Pr\u00e9sident de discord"
+        },
+        "Titre96": {
+            "value": "Je suis le dieu d'ekfr"
+        },
+        "Titre97": {
+            "value": "Je suis la d\u00e9esse d'ekfr"
+        },
+        "Titre98": {
+            "value": "RunOrDie"
+        },
+        "Titre99": {
+            "value": "Yolo !"
+        },
+        "Titre100": {
+            "value": "<a:CratriceEKFR:741007038909382726> **__D\u00e9esse des brocolis__**"
         }
     },
     "shop": {
@@ -943,9 +1399,362 @@
             "YugiV1": {
                 "price": 149999,
                 "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re YugiV1 - Yu gi ho"
+            },
+            "FlannyV1": {
+                "price": 749999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant la banni\u00e8re Flanny - Reine des brocolis"
             }
         },
-        "titles": {},
+        "titles": {
+            "Titre1": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Je suis un homme, un vrai."
+            },
+            "Titre2": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Je suis une femme, une vrai."
+            },
+            "Titre3": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Noob"
+            },
+            "Titre4": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : D\u00e9butant"
+            },
+            "Titre5": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Novice"
+            },
+            "Titre6": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Expert"
+            },
+            "Titre7": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Musicien"
+            },
+            "Titre8": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Guitariste"
+            },
+            "Titre9": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : 1 2 3 soleil !"
+            },
+            "Titre10": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Attrape moi si tu peux"
+            },
+            "Titre11": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : C'est la guerre !"
+            },
+            "Titre12": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Nous sommes en guerre."
+            },
+            "Titre13": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Guerrier de discord"
+            },
+            "Titre14": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Gardienne de discord"
+            },
+            "Titre15": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Humain"
+            },
+            "Titre16": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Humaine"
+            },
+            "Titre17": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Shinigami"
+            },
+            "Titre18": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Vice-capitaine"
+            },
+            "Titre19": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Capitaine"
+            },
+            "Titre20": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Commandant"
+            },
+            "Titre21": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Hollow"
+            },
+            "Titre22": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Arrancar"
+            },
+            "Titre23": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Espada"
+            },
+            "Titre24": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : dresseur de pokemon"
+            },
+            "Titre25": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Champion d'arene"
+            },
+            "Titre26": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Conseil 4"
+            },
+            "Titre27": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Ma\u00eetre de la ligue"
+            },
+            "Titre28": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : ..."
+            },
+            "Titre29": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Sayan"
+            },
+            "Titre30": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Super Sayan"
+            },
+            "Titre31": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Kamehameha !"
+            },
+            "Titre32": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Ephedia"
+            },
+            "Titre33": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Volta"
+            },
+            "Titre34": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : X\u00e9ris"
+            },
+            "Titre35": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Bor\u00e9alise"
+            },
+            "Titre36": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Calix"
+            },
+            "Titre37": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince d'ephedia"
+            },
+            "Titre38": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse d'ephedia"
+            },
+            "Titre39": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse de discord"
+            },
+            "Titre40": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince de discord"
+            },
+            "Titre41": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince de volta"
+            },
+            "Titre42": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse de volta"
+            },
+            "Titre43": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince de x\u00e9ris"
+            },
+            "Titre44": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse de x\u00e9ris"
+            },
+            "Titre45": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince de bor\u00e9alise"
+            },
+            "Titre46": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse de bor\u00e9alise"
+            },
+            "Titre47": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Prince de calix"
+            },
+            "Titre48": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Princesse de calix"
+            },
+            "Titre49": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Irotuka"
+            },
+            "Titre50": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Irotukien"
+            },
+            "Titre51": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Irotukienne"
+            },
+            "Titre52": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Ma\u00eetre des croissants !"
+            },
+            "Titre53": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Lionne"
+            },
+            "Titre54": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Styliste"
+            },
+            "Titre55": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Je suis une star"
+            },
+            "Titre56": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Top model"
+            },
+            "Titre57": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre :Idole de discord"
+            },
+            "Titre58": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Je suis une l\u00e9gende"
+            },
+            "Titre59": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Inoubliable"
+            },
+            "Titre60": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Route c\u00e9leste"
+            },
+            "Titre61": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Route c\u00e9leste"
+            },
+            "Titre62": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Geek amoureux"
+            },
+            "Titre63": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Calin masochiste"
+            },
+            "Titre64": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Main gauche de la sagesse"
+            },
+            "Titre65": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Main droite de la maladresse"
+            },
+            "Titre66": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : 666"
+            },
+            "Titre67": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Illuminati"
+            },
+            "Titre68": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : hm... it's very weird..."
+            },
+            "Titre69": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : 69"
+            },
+            "Titre70": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Pourquoi tant de N ?, S Parceque personne ne vous M ?"
+            },
+            "Titre71": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Vous \u00eates ce que vous \u00eates."
+            },
+            "Titre72": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Chevalier de bronze"
+            },
+            "Titre73": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Chevalier d'argent"
+            },
+            "Titre74": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Chevalier d'or"
+            },
+            "Titre75": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Grand pope"
+            },
+            "Titre76": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Divinit\u00e9"
+            },
+            "Titre77": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Dieu de la cr\u00e9ation"
+            },
+            "Titre78": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Dieu de la destruction"
+            },
+            "Titre79": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : D\u00e9esse de la victoire"
+            },
+            "Titre80": {
+                "price": 4999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : D\u00e9esse de la guerre"
+            },
+            "Titre81": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Dieu des dieux"
+            },
+            "Titre82": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Jusqu'as ce que la mort nous s\u00e9pare."
+            },
+            "Titre83": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Jusqu'as ce qu'un de nous meurt."
+            },
+            "Titre84": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Les malades droivent prendres leurs m\u00e9dicaments."
+            },
+            "Titre85": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Quand il faut faire vite, il faut fervex."
+            },
+            "Titre86": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Tremblez devant nous , pauvre mortels !"
+            },
+            "Titre87": {
+                "price": 14999,
+                "desc": "<a:flecheimageanimee0010:727574818110832691>Achetez d\u00e8s maintenant le titre : Angela, appel moi ce soir ~"
+            }
+        },
         "divers": {
             "contrib": {
                 "calix": 1499,
@@ -959,42 +1768,41 @@
     },
     "hourly": {
         "work": {
-            "min": 0,
-            "max": 5000,
+            "min": 10000,
+            "max": 20000,
             "messages": {
-                "1": "test",
+                "1": "<a:724298582089269269:725374187010785364> Vous avez re\u00e7u un don d'\u00e9ph\u00e9dia kingdom fr, vous obtenez {gain}",
                 "2": "<a:724298582089269269:725374187010785364> Vous avez re\u00e7u la paye du mois dernier. vous obtenez {gain}",
                 "3": "<a:4147_magical_heart:722852234072686672> Apr\u00e8s une bonne journ\u00e9e de travail , vous \u00eates r\u00e9compens\u00e9 par votre patron, vous obtenez {gain}",
-                "4": "<:ss19:711641684991148115> Vous avez r\u00e9ussi parfaitement la transaction bancaire de l'entreprise ephedia kingdom fr sur votre compte afin de toucher vos revenues quotidien, vous obtenez {gain}",
+                "4": "<:ss19:711641684991148115> Vous avez r\u00e9ussi parfaitement la transaction bancaire de l'entreprise Ephedia Kingdom FR sur votre compte afin de toucher vos revenus quotidiens, vous obtenez {gain}",
                 "5": "<a:721274692564025399:725374014310055997> Votre patron est fi\u00e8re de vous, vous obtenez {gain}",
                 "6": "<a:716785945717768273:723013461612953601> Sah quel bonheur de travailler, vous obtenez {gain}",
-                "7": "<a:637336657598873632:723013374677483521> Tu ne sais pas pourquoi ton patron te demande cela, mais tu le fais, vous obtenez {gain}",
+                "7": "<a:637336657598873632:723013374677483521> Tu ne sais pas pourquoi ton patron te demande cela, mais tu le fais, tu obtiens {gain}",
                 "8": "<a:652433124797710348:723013382772359238> Des paillettes woahhhh ! des PAILLETTES, le studio de noel que votre patron vous a demand\u00e9 de pr\u00e9parer est splendide, vous obtenez {gain}",
-                "9": "<:4832_RyukoSip:708214587836727396> Vous obtenez un jour de cong\u00e9 pay\u00e9, vous obtenez {gain}",
-                "10": "<a:724298582089269269:725374187010785364> Vous avez re\u00e7u un don d'\u00e9ph\u00e9dia kingdom fr, vous obtenez {gain}"
+                "9": "<:4832_RyukoSip:708214587836727396> Vous obtenez un jour de cong\u00e9 pay\u00e9, vous obtenez {gain}"
             }
         },
         "battle": {
-            "min": 0,
-            "max": 5000,
+            "min": 10000,
+            "max": 20000,
             "messages": {
-                "1": "<a:652438428788588544:723013400598151208>  J'invoque ma carte pi\u00e8ge ! Miroir magique !  votre adversaire est hors-combat, vous obtenez {gain}",
-                "2": "<a:719072150325297223:723015610115686411> Aquali je te choisi ! attaque hydro canon ! le groudon adverse est hors combat. vous obtenez {gain}",
+                "1": "<a:652438428788588544:723013400598151208>  J'invoque ma carte pi\u00e8ge ! Miroir magique ! Votre adversaire est hors-combat, vous obtenez {gain}",
+                "2": "<a:719072150325297223:723015610115686411> Aquali je te choisis ! Attaque hydro-canon ! Le groudon adverse est hors combat. vous obtenez {gain}",
                 "3": "<a:698670412720111698:725374157247742042> YA ta ta tatatatatatata ! Hyper cute ! l'adversaire ayant peur de vous, d\u00e9clare forfait,  vous obtenez {gain}"
             }
         },
         "crime": {
-            "min": 0,
-            "max": 5000,
+            "min": 10000,
+            "max": 20000,
             "messages": {
                 "1": "<:ss28:708214589132898334> Vous avez tu\u00e9 un sbire du mal, vous obtenez {gain}",
-                "2": "<:KannaKms:708214644191526992> Vous avez r\u00e9alis\u00e9 le crime parfait, hier soir, vous \u00eates allez chez votre copine, apr\u00e8s une partie de cluedo, elle est all\u00e9 dormir, vous avez inject\u00e9 dans dans un verre d'eau un poisson mortel d'une plante local qui se trouve \u00e0 c\u00f4t\u00e9 du lit, les scientifiques conclue \u00e0 une mort accidentelle, vous obtenez {gain}",
+                "2": "<:KannaKms:708214644191526992> Vous avez r\u00e9alis\u00e9 le crime parfait, hier soir, vous \u00eates allé chez votre copine, apr\u00e8s une partie de cluedo, elle est all\u00e9e dormir, vous avez inject\u00e9 dans dans un verre d'eau un poison mortel d'une plante locale qui se trouve \u00e0 c\u00f4t\u00e9 du lit, les scientifiques concluent \u00e0 une mort accidentelle, vous obtenez {gain}",
                 "3": "Dans une nuit bien sombre, vous avez \u00e9cras\u00e9 un individu , dans la panique vous avez ramass\u00e9 son porte monnaie, vous avez pris l'argent pour partir loin de la sc\u00e8ne du crime,  vous obtenez {gain}",
                 "4": "<a:717610009222971452:725374064746823680> Vous avez cambriol\u00e9 la banque d'irotuka, rip Toamix, vous obtenez {gain}",
-                "5": "<a:710753428388708394:725374051723247637> Vous avez donn\u00e9 un croche pied \u00e0 un cycliste qui ... faisait du v\u00e9lo ? en tombant par terre, de l'argent s'\u00e9chappa, vous obtenez {gain}",
+                "5": "<a:710753428388708394:725374051723247637> Vous avez donn\u00e9 un croche pied \u00e0 un cycliste qui ... faisait du v\u00e9lo. en tombant par terre, de l'argent s'\u00e9chappa, vous obtenez {gain}",
                 "6": "<:ConceitedReaction:708214637455474719> Baisse t'es yeux quand je te parle. Vous obtenez {gain}",
                 "7": "<a:610082855904870400:723013331388203128> Vous avez tu\u00e9 le boss du dernier niveau. Vous obtenez {gain}",
-                "8": "<:MonkaChrist:708214664508735570> Afin de punir le copain de v\u00f4tre ex, vous avez utilis\u00e9 les forces 666 et compagnie, le mal vous r\u00e9compense pour avoir poss\u00e9d\u00e9 son corp, Il vous donne {gain}",
+                "8": "<:MonkaChrist:708214664508735570> Afin de punir le copain de v\u00f4tre ex, vous avez utilis\u00e9 les forces 666 et compagnie, le mal vous r\u00e9compense pour avoir poss\u00e9d\u00e9 son corps, Il vous donne {gain}",
                 "9": "<a:E13:722891312512237708> Vous avez trouv\u00e9 le moyen de dupliquer de la monnaie comme sur un glitch de GTA V, vous obtenez {gain}",
                 "10": "<a:721274690248900629:725374170766115147> Vous avez tu\u00e9 accidentellement votre conjoint en lui faisant un calin, il est mort \u00e9touff\u00e9, vous obtenez {gain}"
             }

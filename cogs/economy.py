@@ -102,6 +102,7 @@ class Economy(commands.Cog):
             embed.set_author(name = ctx.author, icon_url = ctx.author.avatar_url)
             embed.set_footer(text = "Ⓒ 2020 EPHEDIA FR. TOUS DROITS RÉSERVÉS.")
             await ctx.send(embed = embed)
+            
             print("Work")
         else:
             await ctx.send(embed = await error_embed(

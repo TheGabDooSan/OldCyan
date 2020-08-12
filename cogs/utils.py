@@ -359,7 +359,7 @@ class Utils(commands.Cog):
             title = f"Support - {guild.name}",
             description = f"<:verified_discord:717005075582681239> __Serveur discord__ : [Invite](https://discord.gg/w7kWcjV)\n"
                           f"<a:724298582089269269:725374187010785364> __Support Email__ : `ephediafr.supp@gmail.com`\n"
-                          f"<:4713_ubot:718816787764084797> __Invitation du bot__ (Hestia) : [Invite](https://discord.com/api/oauth2/authorize?client_id=709492167537721434&permissions=2146958847&scope=bot)\n"
+                          f"<:4713_ubot:718816787764084797> __Invitation du bot__ (Hestia) : [Invite](https://discord.com/oauth2/authorize?client_id=716757685655175281&permissions=8&scope=bot)\n"
                           f"\n"
                           f"<a:Tsuki:727918297420398673> __Invitation du bot__ (Tsuki - Partenaire) : [Invite](https://discordapp.com/oauth2/authorize?client_id=709532201871737023&scope=bot&permissions=2146958847)"
         )
