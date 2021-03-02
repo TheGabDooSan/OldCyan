@@ -1,2 +1,2 @@
 # OldCyan
-Je vais pas supprimer ce repo mais ne prenez pas exemple sur le code ;p
+I'm not going to delete this repo but I advise you not to copy this old code.
